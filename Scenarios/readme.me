@@ -1,0 +1,139 @@
+# Scenario Statistics Analysis
+
+Jupyter notebook and data files to compute and visualize statistics on neutral-name scenarios: token counts, readability, sentiment, similarity metrics, and more.
+
+---
+
+## 📋 Table of Contents
+- [About](#about)
+- [Repository Structure](#repository-structure)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Notebook Overview](#notebook-overview)
+- [Outputs](#outputs)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## 🧐 About
+This project analyzes a set of “neutral-name” scenario descriptions. It computes:
+- Token & sentence counts  
+- Readability (Flesch metrics)  
+- Sentiment scores (VADER)  
+- Type–token ratio (TTR)  
+- Named Entities  
+- Cosine & Jaccard similarities  
+- POS tag distributions  
+
+Plots and summary tables are generated for insight into the dataset.
+
+---
+
+## 🗂️ Repository Structure
+
+
+
+Scenario_Statistics/
+├── Final Scenario Statistics.ipynb
+├── RandomNeutralScenarios.json
+└── Scenario_Statistics.json
+
+
+
+- **RandomNeutralScenarios.json**  
+  Raw input scenarios.
+- **Scenario_Statistics.json**  
+  (Optional) Saved analysis results.
+- **Final Scenario Statistics.ipynb**  
+  Notebook performing full analysis and visualization.
+
+---
+
+## 🚀 Prerequisites
+- Python 3.8+
+- JupyterLab or Notebook
+- NLTK data: `punkt`, `stopwords`, `vader_lexicon`, `averaged_perceptron_tagger`
+- Python packages:
+  - nltk
+  - numpy
+  - scipy
+  - scikit-learn
+  - spacy (with `en_core_web_md`)
+  - textstat
+  - matplotlib
+  - pandas
+
+---
+
+## 💾 Installation
+
+```bash
+# Clone or navigate to this folder
+cd ~/BiasEvaluation/Codes_LLM_Runs&Analyses/Scenarios/Scenario_Statistics
+
+# (Optional) create virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
+# Install requirements
+pip install nltk numpy scipy scikit-learn spacy textstat matplotlib pandas
+
+# Download NLTK data
+python - <<PYCODE
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('vader_lexicon')
+nltk.download('averaged_perceptron_tagger')
+PYCODE
+
+# Download spaCy model
+python -m spacy download en_core_web_md
+
+▶️ Usage
+Launch Jupyter:
+jupyter lab
+
+Open Final Scenario Statistics.ipynb
+
+In the first cell, ensure paths to RandomNeutralScenarios.json are correct.
+
+Run all cells to produce:
+
+Summary statistics printed to console
+
+Pandas DataFrame of per-scenario metrics
+
+Plots for tokens vs. sentiment, sentiment distribution, readability distribution
+
+⚙️ Configuration
+If you wish to save results to Scenario_Statistics.json, modify the final notebook cell:
+
+with open('Scenario_Statistics.json', 'w') as f:
+    json.dump(result, f, indent=2)
+
+📓 Notebook Overview
+File	Description
+Final Scenario Statistics.ipynb	Main analysis notebook (statistics & visualizations)
+RandomNeutralScenarios.json	Input dataset of scenario descriptions
+Scenario_Statistics.json	(Optional) Exported summary results
+
+📜 Outputs
+Console/Table:
+
+Minimum, maximum, mean, standard deviation for tokens, sentences, sentiment, readability, TTR, entities
+
+Cosine & Jaccard similarity metrics
+
+POS tag frequency
+
+Plots:
+
+Tokens vs. Sentiment scatter
+
+Sentiment distribution histogram
+
+Readability score histogram

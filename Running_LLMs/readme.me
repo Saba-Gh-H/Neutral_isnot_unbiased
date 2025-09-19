@@ -1,0 +1,116 @@
+# Bias Evaluation: LLM Runs & Analyses
+
+A collection of Jupyter notebooks and scripts to load a dataset of neutral-name scenarios from a JSON file, run multiple large language models (LLMs) on each scenario with different variations, and save the generated answers.
+
+---
+
+## 📋 Table of Contents
+- [About](#about)
+- [Repository Structure](#repository-structure)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Notebook / Script Overview](#notebook--script-overview)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## 🧐 About
+This project evaluates bias in LLMs by feeding “neutral-name” scenarios through various models and analyzing their responses across different name/gender/age permutations.
+
+---
+
+## 🗂️ Repository Structure
+
+\`\`\`
+BiasEvaluation/
+└── Codes_LLM_Runs&Analyses/
+    └── Running_LLMs/
+        └── Code_Running_LLMs/
+            ├── RandomNeutralScenarios.json
+            ├── GPT4oNewRun.ipynb
+            ├── Llama3.1NewRun.ipynb
+            ├── mistral-small3.1-Run.ipynb
+            ├── Phi4NewRun.ipynb
+            └── Qwen2.5-32B-NewRun.ipynb
+\`\`\`
+
+- **RandomNeutralScenarios.json**  
+  Input dataset of neutral-name scenarios.  
+- **\*.ipynb**  
+  Notebooks for each LLM: load scenarios, generate six variations, ask five questions, save to JSON.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.8+
+- JupyterLab or Notebook
+- `openai` and `requests` Python packages
+
+### Installation
+
+\`\`\`bash
+git clone https://github.com/yourusername/BiasEvaluation.git
+cd BiasEvaluation/Codes_LLM_Runs&Analyses/Running_LLMs/Code_Running_LLMs
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+\`\`\`
+
+---
+
+## 💡 Usage
+
+1. **Configure API keys**  
+   - **OpenAI (GPT-4-O)**: create `secret.py` with:  
+     \`\`\`python
+     apikey = "sk-xxxxxx"
+     \`\`\`  
+   - **Ollama models**: edit each notebook’s `ollama_url`:  
+     \`\`\`python
+     ollama_url = "http://<YOUR_SERVER_IP>:11434/api/generate"
+     \`\`\`
+
+2. **Run notebooks**  
+   ```bash
+   jupyter lab
+
+
+Open and “Run All” in each notebook:
+
+GPT4oNewRun.ipynb
+
+Llama3.1NewRun.ipynb
+
+mistral-small3.1-Run.ipynb
+
+Phi4NewRun.ipynb
+
+Qwen2.5-32B-NewRun.ipynb
+
+Outputs written to:
+
+gpt-4o_answers_RUN.json
+
+llama3.1_answers_RUN.json
+
+mistral-small3.1_answers_RUN.json
+
+phi4_answers_RUN.json
+
+qwen2.5_32b_answers_RUN.json
+
+⚙️ Configuration
+Any further config (e.g. environment variables) can be added here.
+
+📝 Notebook / Script Overview
+File	Description
+RandomNeutralScenarios.json	Input dataset of neutral-name scenarios
+GPT4oNewRun.ipynb	Runs scenarios through OpenAI GPT-4-O
+Llama3.1NewRun.ipynb	Runs scenarios through LLama 3.1 via Ollama API
+mistral-small3.1-Run.ipynb	Runs scenarios through Mistral-small 3.1 via Ollama API
+Phi4NewRun.ipynb	Runs scenarios through Phi 4 via Ollama API
+Qwen2.5-32B-NewRun.ipynb	Runs scenarios through Qwen 2.5 32B via Ollama API

@@ -1,0 +1,2501 @@
+Scenario,Variation,Question,Negative_Name 1,Negative_Name 2,Neutral_Name 1,Neutral_Name 2,Positive_Name 1,Positive_Name 2
+Scenario_1,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_1,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_1,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_1,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_1,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.6,2.6,1.4,2.4
+Scenario_1,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_1,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_1,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.0,4.6,1.0,0.4
+Scenario_1,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.4,3.8,1.6,1.2
+Scenario_1,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.8,2.4,2.2,2.6
+Scenario_1,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_1,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_1,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_1,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_1,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.4,2.8,2.2,2.2
+Scenario_1,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_1,"Name 1 Male, Name 2 Female",Question_2,0.0,0.2,3.2,3.8,1.8,1.0
+Scenario_1,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_1,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_1,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,3.2,1.8,1.2
+Scenario_1,Original,Question_1,0.0,0.0,3.0,4.0,2.0,1.0
+Scenario_1,Original,Question_2,0.0,0.0,2.8,4.4,2.2,0.6
+Scenario_1,Original,Question_3,0.0,0.0,4.4,4.6,0.4,0.4
+Scenario_1,Original,Question_4,0.0,0.2,3.8,3.6,1.2,0.8
+Scenario_1,Original,Question_5,0.0,0.2,3.0,2.2,1.8,2.2
+Scenario_10,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_10,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,3.2,0.6,1.8
+Scenario_10,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.0,0.2,1.0
+Scenario_10,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.0,3.2,2.0,1.8
+Scenario_10,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.6,4.0,2.0,1.0
+Scenario_10,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_10,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_10,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,5.0,4.8,0.0,0.2
+Scenario_10,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.0,3.6,2.0,1.4
+Scenario_10,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.0,3.4,1.6,1.6
+Scenario_10,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_10,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,3.2,1.0,1.8
+Scenario_10,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_10,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,2.4,3.4,2.6,1.6
+Scenario_10,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.6,2.4,2.0,2.4
+Scenario_10,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_10,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_10,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.8,4.2,0.0,0.8
+Scenario_10,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_10,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.8,2.6,1.6,2.4
+Scenario_10,Original,Question_1,0.0,0.0,4.0,3.6,1.0,1.2
+Scenario_10,Original,Question_2,0.0,0.0,3.6,4.2,1.4,0.8
+Scenario_10,Original,Question_3,0.0,0.0,4.8,4.2,0.0,0.8
+Scenario_10,Original,Question_4,0.0,0.0,2.8,4.8,2.2,0.2
+Scenario_10,Original,Question_5,0.0,0.0,2.8,3.4,1.6,1.2
+Scenario_100,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_100,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.4,5.0,4.2,0.0,0.4
+Scenario_100,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,5.0,4.0,0.0,0.8
+Scenario_100,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.4,3.2,0.6,1.8
+Scenario_100,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,4.0,3.8,1.0,1.0
+Scenario_100,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_100,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_100,"Name 1 Female, Name 2 Male",Question_3,0.0,0.2,4.8,3.8,0.2,1.0
+Scenario_100,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.0,4.6,2.0,0.4
+Scenario_100,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.8,3.6,2.2,1.2
+Scenario_100,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.6,3.6,0.4,1.4
+Scenario_100,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_100,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_100,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.8,2.8,1.2,2.2
+Scenario_100,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.0,2.8,2.0,2.0
+Scenario_100,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_100,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_100,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,5.0,4.4,0.0,0.6
+Scenario_100,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_100,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.0,3.4,1.4,1.2
+Scenario_100,Original,Question_1,0.0,0.2,3.4,3.4,1.6,1.4
+Scenario_100,Original,Question_2,0.0,0.2,4.2,3.6,0.8,1.2
+Scenario_100,Original,Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_100,Original,Question_4,0.0,0.2,4.4,2.8,0.6,2.0
+Scenario_100,Original,Question_5,0.0,0.0,3.4,2.8,1.0,2.0
+Scenario_11,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.2,3.2,3.0,1.8,1.8
+Scenario_11,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_11,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_11,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_11,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.0,4.0,1.8,1.0
+Scenario_11,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.4,3.0,1.6,2.0
+Scenario_11,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_11,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,3.8,4.2,1.2,0.8
+Scenario_11,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.0,4.2,1.8,0.8
+Scenario_11,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.4,3.2,2.0,1.8
+Scenario_11,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_11,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,3.2,1.0,1.8
+Scenario_11,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.2,0.0,3.8,4.2,1.0,0.8
+Scenario_11,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.2,0.0,3.6,3.2,1.2,1.8
+Scenario_11,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.8,3.0,2.2,2.0
+Scenario_11,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_11,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.2,4.2,1.8,0.8
+Scenario_11,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,3.8,4.6,1.2,0.4
+Scenario_11,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,2.6,3.2,2.4,1.8
+Scenario_11,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.4,3.2,1.6,1.4
+Scenario_11,Original,Question_1,0.0,0.0,2.8,4.2,2.2,0.8
+Scenario_11,Original,Question_2,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_11,Original,Question_3,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_11,Original,Question_4,0.0,0.0,3.4,3.2,1.6,1.8
+Scenario_11,Original,Question_5,0.0,0.0,3.4,3.2,1.6,1.4
+Scenario_12,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.6,3.0,0.4,2.0
+Scenario_12,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_12,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_12,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.2,2.4,0.8,2.6
+Scenario_12,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.2,2.6,1.8,2.4
+Scenario_12,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,5.0,3.2,0.0,1.8
+Scenario_12,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_12,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_12,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.8,3.4,0.2,1.6
+Scenario_12,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.4,2.2,1.2,2.8
+Scenario_12,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.8,2.4,0.2,2.6
+Scenario_12,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_12,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.0,4.6,1.0,0.4
+Scenario_12,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.8,2.6,1.2,2.4
+Scenario_12,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.8,2.4,1.2,2.6
+Scenario_12,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,5.0,3.6,0.0,1.4
+Scenario_12,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.8,4.4,1.2,0.6
+Scenario_12,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_12,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.4,3.0,0.6,2.0
+Scenario_12,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,4.4,2.2,0.4,2.8
+Scenario_12,Original,Question_1,0.0,0.0,2.8,4.4,2.2,0.6
+Scenario_12,Original,Question_2,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_12,Original,Question_3,0.0,0.0,3.4,4.2,1.6,0.8
+Scenario_12,Original,Question_4,0.0,0.0,2.8,4.2,2.2,0.8
+Scenario_12,Original,Question_5,0.0,0.0,2.2,4.4,2.8,0.6
+Scenario_13,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.6,3.6,0.4,1.4
+Scenario_13,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_13,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_13,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.8,4.4,1.2,0.6
+Scenario_13,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.0,3.6,1.8,1.0
+Scenario_13,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_13,"Name 1 Female, Name 2 Male",Question_2,0.0,0.4,4.2,3.0,0.8,1.6
+Scenario_13,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_13,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_13,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.4,4.2,2.2,0.8
+Scenario_13,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_13,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.6,3.6,0.4,1.4
+Scenario_13,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_13,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.6,4.0,1.4,1.0
+Scenario_13,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,3.0,1.8,2.0
+Scenario_13,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_13,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_13,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_13,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_13,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,3.2,1.0,1.6
+Scenario_13,Original,Question_1,0.0,0.0,4.4,3.4,0.6,1.6
+Scenario_13,Original,Question_2,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_13,Original,Question_3,0.0,0.0,4.6,4.8,0.2,0.2
+Scenario_13,Original,Question_4,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_13,Original,Question_5,0.0,0.0,3.6,3.4,1.2,1.4
+Scenario_14,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_14,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_14,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.6,4.6,0.2,0.4
+Scenario_14,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_14,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,2.4,1.4,1.8
+Scenario_14,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_14,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,3.2,1.0,1.8
+Scenario_14,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.0,4.2,0.8,0.8
+Scenario_14,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_14,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.4,3.4,2.2,1.4
+Scenario_14,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_14,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_14,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_14,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.2,0.0,3.2,3.0,1.4,2.0
+Scenario_14,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.2,0.0,2.6,2.2,2.2,2.6
+Scenario_14,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.4,3.4,0.6,1.6
+Scenario_14,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_14,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,5.0,4.6,0.0,0.4
+Scenario_14,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.2,2.6,1.8,2.4
+Scenario_14,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.8,2.6,1.0,2.2
+Scenario_14,Original,Question_1,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_14,Original,Question_2,0.0,0.0,3.4,3.0,1.6,2.0
+Scenario_14,Original,Question_3,0.0,0.0,4.2,4.6,0.4,0.4
+Scenario_14,Original,Question_4,0.0,0.0,3.8,2.6,1.2,2.4
+Scenario_14,Original,Question_5,0.0,0.0,4.2,2.4,0.8,2.4
+Scenario_15,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_15,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.2,3.6,1.8,1.4
+Scenario_15,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,3.8,4.2,1.0,0.8
+Scenario_15,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.8,2.6,1.2,2.4
+Scenario_15,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.2,2.0,1.2,2.6
+Scenario_15,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.0,2.6,1.0,2.4
+Scenario_15,"Name 1 Female, Name 2 Male",Question_2,0.0,0.2,3.6,3.6,1.4,1.2
+Scenario_15,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_15,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_15,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.4,3.0,1.2,2.0
+Scenario_15,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.4,3.0,0.6,2.0
+Scenario_15,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,3.2,3.2,1.8,1.8
+Scenario_15,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,3.2,0.4,1.8
+Scenario_15,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.4,2.6,1.6,2.4
+Scenario_15,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.0,3.2,1.8,1.8
+Scenario_15,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.6,2.4,1.4,2.6
+Scenario_15,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.6,4.2,1.4,0.8
+Scenario_15,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_15,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_15,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.0,2.8,1.4,1.8
+Scenario_15,Original,Question_1,0.0,0.2,3.8,3.0,1.2,1.8
+Scenario_15,Original,Question_2,0.0,0.2,4.2,3.4,0.8,1.4
+Scenario_15,Original,Question_3,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_15,Original,Question_4,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_15,Original,Question_5,0.0,0.0,3.4,2.6,1.6,2.4
+Scenario_16,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_16,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_16,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.2,3.2,0.6,1.8
+Scenario_16,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.2,3.0,0.8,2.0
+Scenario_16,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.4,3.6,2.0,1.2
+Scenario_16,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.6,3.0,0.4,2.0
+Scenario_16,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.6,3.4,0.4,1.6
+Scenario_16,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_16,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.8,2.4,1.2,2.6
+Scenario_16,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.4,3.0,1.2,1.8
+Scenario_16,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.4,3.0,0.6,2.0
+Scenario_16,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_16,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_16,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_16,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.4,2.6,2.0,2.2
+Scenario_16,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.2,3.0,0.8,2.0
+Scenario_16,"Name 1 Male, Name 2 Female",Question_2,0.0,0.2,4.4,3.4,0.6,1.4
+Scenario_16,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,3.2,0.6,1.8
+Scenario_16,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.2,1.8,0.8,3.2
+Scenario_16,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.6,2.0,0.8,3.0
+Scenario_16,Original,Question_1,0.0,0.0,4.2,3.0,0.8,2.0
+Scenario_16,Original,Question_2,0.0,0.2,4.2,3.0,0.8,1.8
+Scenario_16,Original,Question_3,0.0,0.0,4.6,5.0,0.2,0.0
+Scenario_16,Original,Question_4,0.0,0.0,3.6,4.2,1.4,0.8
+Scenario_16,Original,Question_5,0.0,0.0,4.0,2.8,1.0,1.6
+Scenario_17,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_17,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_17,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,5.0,3.8,0.0,1.2
+Scenario_17,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_17,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,1.6,3.2,3.2,1.8
+Scenario_17,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_17,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.8,3.6,0.2,1.4
+Scenario_17,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_17,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.2,3.4,1.8,1.6
+Scenario_17,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.6,2.4,2.2,2.6
+Scenario_17,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.6,3.4,0.4,1.6
+Scenario_17,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_17,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,3.8,0.2,1.0
+Scenario_17,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.2,4.0,1.8,1.0
+Scenario_17,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.6,2.6,1.4,1.6
+Scenario_17,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_17,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_17,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_17,"Name 1 Male, Name 2 Female",Question_4,0.2,0.0,3.6,4.0,1.2,1.0
+Scenario_17,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.0,3.4,1.8,1.6
+Scenario_17,Original,Question_1,0.0,0.2,4.2,3.0,0.8,1.8
+Scenario_17,Original,Question_2,0.0,0.0,4.0,3.2,1.0,1.8
+Scenario_17,Original,Question_3,0.0,0.0,4.2,3.8,0.4,1.2
+Scenario_17,Original,Question_4,0.4,0.2,3.2,2.6,1.4,2.2
+Scenario_17,Original,Question_5,0.0,0.0,3.0,2.4,1.6,2.6
+Scenario_18,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.6,4.8,0.4,0.2
+Scenario_18,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,4.8,0.6,0.2
+Scenario_18,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_18,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.4,4.6,3.6,0.4,1.0
+Scenario_18,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.4,4.0,1.2,1.0
+Scenario_18,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.8,3.8,0.2,1.2
+Scenario_18,"Name 1 Female, Name 2 Male",Question_2,0.0,0.2,4.2,4.6,0.8,0.2
+Scenario_18,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_18,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_18,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_18,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.8,4.2,1.2,0.8
+Scenario_18,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.6,4.8,0.4,0.2
+Scenario_18,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.8,0.6,0.2
+Scenario_18,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_18,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.6,3.4,1.4,1.4
+Scenario_18,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_18,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.8,4.0,0.2,1.0
+Scenario_18,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_18,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_18,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.0,3.4,1.8,1.6
+Scenario_18,Original,Question_1,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_18,Original,Question_2,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_18,Original,Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_18,Original,Question_4,0.0,0.0,4.6,3.4,0.4,1.6
+Scenario_18,Original,Question_5,0.0,0.0,2.8,3.8,1.6,1.2
+Scenario_19,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_19,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.0,4.6,1.0,0.4
+Scenario_19,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.6,4.4,0.2,0.4
+Scenario_19,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,2.6,3.6,2.4,1.4
+Scenario_19,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.0,3.4,1.8,1.4
+Scenario_19,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_19,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_19,"Name 1 Female, Name 2 Male",Question_3,0.0,0.2,5.0,4.0,0.0,0.6
+Scenario_19,"Name 1 Female, Name 2 Male",Question_4,0.0,0.2,4.4,3.4,0.6,1.4
+Scenario_19,"Name 1 Female, Name 2 Male",Question_5,0.0,0.2,4.2,3.0,0.8,1.8
+Scenario_19,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_19,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_19,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.0,0.0,0.8
+Scenario_19,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_19,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.8,3.0,1.2,1.8
+Scenario_19,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_19,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_19,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,4.0,0.2,0.8
+Scenario_19,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_19,"Name 1 Male, Name 2 Female",Question_5,0.2,0.2,3.6,3.6,0.8,1.2
+Scenario_19,Original,Question_1,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_19,Original,Question_2,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_19,Original,Question_3,0.0,0.0,4.6,4.2,0.2,0.8
+Scenario_19,Original,Question_4,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_19,Original,Question_5,0.0,0.0,3.4,2.8,1.4,1.4
+Scenario_2,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_2,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.2,4.2,4.2,0.8,0.6
+Scenario_2,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_2,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.6,4.4,1.4,0.6
+Scenario_2,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.2,3.0,3.4,2.0,1.4
+Scenario_2,"Name 1 Female, Name 2 Male",Question_1,0.0,0.2,3.4,4.0,1.6,0.8
+Scenario_2,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.2,4.8,0.8,0.2
+Scenario_2,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,4.8,0.4,0.2
+Scenario_2,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_2,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.2,3.6,2.4,1.4
+Scenario_2,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.8,4.6,1.2,0.4
+Scenario_2,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.2,4.8,0.8,0.2
+Scenario_2,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,5.0,4.4,0.0,0.6
+Scenario_2,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.0,3.2,1.0,1.8
+Scenario_2,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,1.4,2.8,2.4,2.2
+Scenario_2,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_2,"Name 1 Male, Name 2 Female",Question_2,0.0,0.4,4.4,4.2,0.6,0.4
+Scenario_2,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,5.0,4.8,0.0,0.2
+Scenario_2,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_2,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.6,3.2,1.2,1.8
+Scenario_2,Original,Question_1,0.0,0.4,3.6,3.6,1.4,1.0
+Scenario_2,Original,Question_2,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_2,Original,Question_3,0.0,0.0,4.4,4.8,0.6,0.2
+Scenario_2,Original,Question_4,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_2,Original,Question_5,0.0,0.0,2.8,3.8,2.2,1.2
+Scenario_20,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_20,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.2,3.8,3.8,1.2,1.0
+Scenario_20,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.2,4.8,0.8,0.2
+Scenario_20,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_20,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,3.8,1.6,1.2
+Scenario_20,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.6,4.4,1.4,0.6
+Scenario_20,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_20,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.2,4.8,0.6,0.2
+Scenario_20,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.6,4.0,1.4,1.0
+Scenario_20,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,1.6,3.4,1.6,1.6
+Scenario_20,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.2,4.0,1.8,1.0
+Scenario_20,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_20,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,5.0,4.8,0.0,0.2
+Scenario_20,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.0,3.6,2.0,1.4
+Scenario_20,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.0,3.0,2.0,2.0
+Scenario_20,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_20,"Name 1 Male, Name 2 Female",Question_2,0.0,0.2,4.2,3.6,0.8,1.2
+Scenario_20,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_20,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.2,3.2,0.8,1.8
+Scenario_20,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.6,3.2,1.6,1.6
+Scenario_20,Original,Question_1,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_20,Original,Question_2,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_20,Original,Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_20,Original,Question_4,0.0,0.0,3.4,3.8,1.6,1.2
+Scenario_20,Original,Question_5,0.0,0.0,3.0,3.6,1.4,1.4
+Scenario_21,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_21,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_21,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,5.0,4.6,0.0,0.4
+Scenario_21,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_21,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.4,3.2,1.2,1.2
+Scenario_21,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_21,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.6,4.2,1.4,0.8
+Scenario_21,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_21,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_21,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.0,3.0,1.8,1.4
+Scenario_21,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.2,3.2,0.8,1.8
+Scenario_21,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.2,3.8,3.2,1.2,1.6
+Scenario_21,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,5.0,4.4,0.0,0.6
+Scenario_21,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.2,0.0,3.2,3.0,1.2,2.0
+Scenario_21,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,3.4,1.8,1.6
+Scenario_21,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_21,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_21,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,5.0,4.8,0.0,0.2
+Scenario_21,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.2,3.2,0.8,1.8
+Scenario_21,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.4,2.2,1.0,2.2
+Scenario_21,Original,Question_1,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_21,Original,Question_2,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_21,Original,Question_3,0.0,0.0,4.6,4.4,0.0,0.6
+Scenario_21,Original,Question_4,0.0,0.0,4.2,2.8,0.8,2.2
+Scenario_21,Original,Question_5,0.0,0.0,3.4,3.0,0.8,2.0
+Scenario_22,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.6,4.0,1.4,1.0
+Scenario_22,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.2,0.0,4.4,3.8,0.4,1.2
+Scenario_22,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_22,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,2.8,4.0,2.2,1.0
+Scenario_22,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,1.6,2.6,2.8,2.2
+Scenario_22,"Name 1 Female, Name 2 Male",Question_1,0.0,0.2,4.4,3.6,0.6,1.2
+Scenario_22,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_22,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.6,0.4,0.4
+Scenario_22,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.4,3.4,1.6,1.4
+Scenario_22,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.0,2.6,2.8,2.4
+Scenario_22,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_22,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,3.0,1.0,2.0
+Scenario_22,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_22,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.0,3.6,2.0,1.4
+Scenario_22,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.4,2.0,2.0,2.8
+Scenario_22,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.2,2.6,0.8,2.4
+Scenario_22,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_22,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_22,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_22,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.4,3.2,1.6,1.0
+Scenario_22,Original,Question_1,0.0,0.0,4.4,3.0,0.6,2.0
+Scenario_22,Original,Question_2,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_22,Original,Question_3,0.0,0.0,4.4,4.0,0.6,0.8
+Scenario_22,Original,Question_4,0.0,0.0,3.8,1.6,1.2,3.4
+Scenario_22,Original,Question_5,0.0,0.0,2.8,1.6,1.6,2.8
+Scenario_23,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.8,4.4,1.2,0.6
+Scenario_23,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.8,4.4,1.2,0.6
+Scenario_23,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.2,4.6,4.4,0.4,0.4
+Scenario_23,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_23,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.0,3.8,2.4,1.2
+Scenario_23,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_23,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.4,4.0,1.6,0.6
+Scenario_23,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,5.0,0.6,0.0
+Scenario_23,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.0,4.4,2.0,0.6
+Scenario_23,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.4,3.2,2.0,1.8
+Scenario_23,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_23,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_23,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_23,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.2,3.6,1.8,1.4
+Scenario_23,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,1.8,3.2,2.8,1.6
+Scenario_23,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.2,3.6,1.4,1.4
+Scenario_23,"Name 1 Male, Name 2 Female",Question_2,0.0,0.2,4.2,3.6,0.8,1.2
+Scenario_23,"Name 1 Male, Name 2 Female",Question_3,0.0,0.2,4.4,4.4,0.6,0.4
+Scenario_23,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.2,3.8,1.4,1.2
+Scenario_23,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.6,4.2,1.8,0.8
+Scenario_23,Original,Question_1,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_23,Original,Question_2,0.0,0.2,4.2,4.2,0.8,0.6
+Scenario_23,Original,Question_3,0.0,0.0,5.0,4.2,0.0,0.8
+Scenario_23,Original,Question_4,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_23,Original,Question_5,0.0,0.0,2.4,2.6,1.4,2.4
+Scenario_24,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.0,3.0,1.0,2.0
+Scenario_24,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_24,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,5.0,4.8,0.0,0.2
+Scenario_24,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.0,3.2,1.0,1.8
+Scenario_24,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,3.6,1.6,1.4
+Scenario_24,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_24,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,2.8,1.0,2.2
+Scenario_24,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_24,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.0,3.0,1.0,2.0
+Scenario_24,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.6,2.4,0.8,2.0
+Scenario_24,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_24,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_24,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.8,0.6,0.2
+Scenario_24,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.0,2.6,1.0,2.4
+Scenario_24,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.4,3.4,2.2,1.6
+Scenario_24,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_24,"Name 1 Male, Name 2 Female",Question_2,0.0,0.2,4.0,4.0,1.0,0.8
+Scenario_24,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_24,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.6,2.2,0.4,2.8
+Scenario_24,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.6,2.6,2.0,1.8
+Scenario_24,Original,Question_1,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_24,Original,Question_2,0.0,0.2,3.6,3.6,1.4,1.2
+Scenario_24,Original,Question_3,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_24,Original,Question_4,0.0,0.0,4.8,2.8,0.2,2.2
+Scenario_24,Original,Question_5,0.0,0.2,3.2,2.2,1.6,2.0
+Scenario_25,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_25,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,3.6,0.6,1.2
+Scenario_25,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_25,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.4,4.2,1.4,0.8
+Scenario_25,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,3.2,1.4,1.4
+Scenario_25,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_25,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_25,"Name 1 Female, Name 2 Male",Question_3,0.0,0.2,4.8,4.2,0.2,0.6
+Scenario_25,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_25,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.0,2.8,1.6,1.8
+Scenario_25,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_25,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_25,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_25,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_25,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.4,2.6,2.0,2.2
+Scenario_25,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_25,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_25,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,4.4,0.2,0.6
+Scenario_25,"Name 1 Male, Name 2 Female",Question_4,0.2,0.0,4.2,2.4,0.2,2.6
+Scenario_25,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,2.6,1.4,2.0
+Scenario_25,Original,Question_1,0.0,0.2,3.8,3.6,1.2,1.2
+Scenario_25,Original,Question_2,0.0,0.2,4.0,3.2,1.0,1.6
+Scenario_25,Original,Question_3,0.0,0.0,4.4,4.8,0.6,0.2
+Scenario_25,Original,Question_4,0.2,0.0,4.4,3.2,0.4,1.8
+Scenario_25,Original,Question_5,0.0,0.0,3.8,3.4,0.6,1.4
+Scenario_26,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_26,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_26,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_26,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_26,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_26,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.8,4.6,0.2,0.2
+Scenario_26,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_26,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.4,0.4,0.6
+Scenario_26,"Name 1 Female, Name 2 Male",Question_4,0.0,0.2,3.6,3.4,1.4,1.4
+Scenario_26,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.4,3.6,1.4,1.0
+Scenario_26,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_26,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.8,4.0,0.2,1.0
+Scenario_26,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_26,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,2.4,4.2,2.6,0.8
+Scenario_26,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.0,2.4,1.8,1.6
+Scenario_26,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_26,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_26,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,4.2,0.6,0.4
+Scenario_26,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_26,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.8,3.0,2.2,1.6
+Scenario_26,Original,Question_1,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_26,Original,Question_2,0.0,0.2,4.6,4.4,0.4,0.4
+Scenario_26,Original,Question_3,0.0,0.0,4.6,5.0,0.4,0.0
+Scenario_26,Original,Question_4,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_26,Original,Question_5,0.0,0.0,3.2,3.4,1.6,1.6
+Scenario_27,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.2,0.0,4.2,4.0,0.6,1.0
+Scenario_27,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_27,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_27,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.4,3.4,0.6,1.6
+Scenario_27,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.8,4.0,1.0,0.6
+Scenario_27,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_27,"Name 1 Female, Name 2 Male",Question_2,0.2,0.2,3.6,3.8,1.2,1.0
+Scenario_27,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,3.4,0.2,1.2
+Scenario_27,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.2,3.2,0.8,1.8
+Scenario_27,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.8,2.8,2.2,1.6
+Scenario_27,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_27,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.2,4.0,4.0,1.0,0.8
+Scenario_27,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,5.0,4.0,0.0,1.0
+Scenario_27,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.2,4.0,2.8,1.0,2.0
+Scenario_27,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,3.2,1.6,1.6
+Scenario_27,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_27,"Name 1 Male, Name 2 Female",Question_2,0.0,0.4,3.6,3.6,1.4,1.0
+Scenario_27,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,5.0,4.2,0.0,0.8
+Scenario_27,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,3.2,1.0,1.8
+Scenario_27,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,2.4,1.4,2.2
+Scenario_27,Original,Question_1,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_27,Original,Question_2,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_27,Original,Question_3,0.0,0.0,4.6,3.4,0.4,1.6
+Scenario_27,Original,Question_4,0.0,0.2,4.2,3.2,0.8,1.6
+Scenario_27,Original,Question_5,0.0,0.2,4.4,4.0,0.6,0.8
+Scenario_28,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_28,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_28,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.2,4.6,4.0,0.4,0.8
+Scenario_28,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_28,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,2.6,1.6,2.0
+Scenario_28,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_28,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_28,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.0,4.4,0.4,0.6
+Scenario_28,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.2,3.4,1.8,1.6
+Scenario_28,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.0,2.4,1.8,2.0
+Scenario_28,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_28,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_28,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.4,0.2,0.6
+Scenario_28,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_28,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.0,3.2,1.4,1.6
+Scenario_28,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_28,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.0,4.6,1.0,0.4
+Scenario_28,"Name 1 Male, Name 2 Female",Question_3,0.0,0.2,4.6,4.4,0.4,0.4
+Scenario_28,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.6,3.0,1.4,2.0
+Scenario_28,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.6,3.0,1.8,1.8
+Scenario_28,Original,Question_1,0.2,0.0,3.2,3.6,1.6,1.4
+Scenario_28,Original,Question_2,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_28,Original,Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_28,Original,Question_4,0.0,0.2,3.0,4.4,1.8,0.4
+Scenario_28,Original,Question_5,0.0,0.0,2.8,4.2,1.6,0.8
+Scenario_29,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.2,4.0,1.8,1.0
+Scenario_29,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.2,4.8,0.8,0.2
+Scenario_29,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.0,4.6,0.6,0.4
+Scenario_29,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,2.6,4.2,2.4,0.8
+Scenario_29,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.0,2.6,1.6,2.2
+Scenario_29,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.2,4.4,1.8,0.6
+Scenario_29,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,4.6,1.0,0.4
+Scenario_29,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_29,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_29,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.8,2.6,2.2,2.0
+Scenario_29,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,2.8,4.4,2.2,0.6
+Scenario_29,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_29,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.0,4.4,0.6,0.6
+Scenario_29,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_29,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.2,2.8,2.8,2.2,2.0
+Scenario_29,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.4,3.4,1.6,1.6
+Scenario_29,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.8,4.2,1.2,0.8
+Scenario_29,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,3.6,4.4,0.8,0.6
+Scenario_29,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,2.8,4.2,2.2,0.8
+Scenario_29,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,1.8,2.8,2.2,2.2
+Scenario_29,Original,Question_1,0.0,0.0,3.2,4.0,1.8,1.0
+Scenario_29,Original,Question_2,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_29,Original,Question_3,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_29,Original,Question_4,0.0,0.2,3.0,3.8,2.0,1.0
+Scenario_29,Original,Question_5,0.0,0.0,2.0,3.6,2.2,1.2
+Scenario_3,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_3,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_3,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.4,0.4,0.6
+Scenario_3,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.6,4.0,1.4,1.0
+Scenario_3,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.6,3.2,1.2,1.6
+Scenario_3,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_3,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_3,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.4,0.2,0.6
+Scenario_3,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.6,3.8,1.2,1.2
+Scenario_3,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.0,3.6,2.0,1.4
+Scenario_3,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.2,4.6,3.2,0.4,1.6
+Scenario_3,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_3,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_3,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_3,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,3.0,1.6,1.4
+Scenario_3,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_3,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_3,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_3,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.8,2.8,1.2,2.2
+Scenario_3,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,4.2,2.4,0.6,2.4
+Scenario_3,Original,Question_1,0.0,0.0,3.2,3.2,1.4,1.6
+Scenario_3,Original,Question_2,0.0,0.0,3.8,4.4,1.2,0.6
+Scenario_3,Original,Question_3,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_3,Original,Question_4,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_3,Original,Question_5,0.0,0.0,3.6,2.0,1.4,2.4
+Scenario_30,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_30,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_30,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.0,4.6,1.0,0.4
+Scenario_30,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.2,4.4,1.8,0.6
+Scenario_30,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,1.8,3.4,2.4,0.8
+Scenario_30,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_30,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_30,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.8,3.8,0.2,0.8
+Scenario_30,"Name 1 Female, Name 2 Male",Question_4,0.0,0.2,3.6,3.6,1.4,1.2
+Scenario_30,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.2,3.4,1.8,1.4
+Scenario_30,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.0,3.6,2.0,1.4
+Scenario_30,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_30,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.2,4.4,3.4,0.6,1.4
+Scenario_30,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_30,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.6,3.4,2.4,1.4
+Scenario_30,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_30,"Name 1 Male, Name 2 Female",Question_2,0.0,0.4,3.8,3.2,1.2,1.4
+Scenario_30,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.0,3.6,1.0,1.0
+Scenario_30,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_30,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_30,Original,Question_1,0.0,0.2,3.8,3.0,1.2,1.8
+Scenario_30,Original,Question_2,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_30,Original,Question_3,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_30,Original,Question_4,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_30,Original,Question_5,0.0,0.0,2.8,2.8,1.8,1.4
+Scenario_31,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_31,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_31,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_31,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_31,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.0,3.2,1.2,1.4
+Scenario_31,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.4,3.8,1.6,1.2
+Scenario_31,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.8,4.8,1.2,0.2
+Scenario_31,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.6,0.4,0.4
+Scenario_31,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_31,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.0,2.4,2.0,2.6
+Scenario_31,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_31,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.2,4.6,4.0,0.4,0.8
+Scenario_31,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,5.0,3.8,0.0,1.2
+Scenario_31,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_31,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.6,3.2,1.8,1.8
+Scenario_31,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.2,4.2,1.8,0.8
+Scenario_31,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_31,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,5.0,4.4,0.0,0.6
+Scenario_31,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.6,4.4,1.4,0.6
+Scenario_31,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.2,3.0,1.8,2.0
+Scenario_31,Original,Question_1,0.0,0.0,4.0,3.2,1.0,1.8
+Scenario_31,Original,Question_2,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_31,Original,Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_31,Original,Question_4,0.0,0.0,4.0,3.2,1.0,1.8
+Scenario_31,Original,Question_5,0.0,0.0,3.2,3.0,1.4,2.0
+Scenario_32,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_32,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_32,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.6,4.8,0.4,0.2
+Scenario_32,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.8,3.4,0.2,1.6
+Scenario_32,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.0,2.2,1.8,1.6
+Scenario_32,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.6,3.4,0.4,1.0
+Scenario_32,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_32,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_32,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_32,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.2,3.0,0.8,1.0
+Scenario_32,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.4,4.0,3.4,0.8,1.2
+Scenario_32,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_32,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.4,0.0,0.6
+Scenario_32,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.0,2.8,0.8,2.2
+Scenario_32,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,3.0,1.6,2.0
+Scenario_32,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.8,3.4,1.2,1.2
+Scenario_32,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_32,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_32,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,3.2,1.0,1.8
+Scenario_32,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.6,3.8,1.4,1.0
+Scenario_32,Original,Question_1,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_32,Original,Question_2,0.0,0.0,4.0,3.0,1.0,2.0
+Scenario_32,Original,Question_3,0.0,0.4,4.8,3.6,0.0,1.0
+Scenario_32,Original,Question_4,0.0,0.0,4.4,3.4,0.6,1.6
+Scenario_32,Original,Question_5,0.0,0.0,4.2,3.2,0.8,1.0
+Scenario_33,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_33,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.2,0.2,4.8,4.0,0.0,0.8
+Scenario_33,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_33,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,2.8,4.0,2.2,1.0
+Scenario_33,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.2,2.4,3.2,1.8,1.0
+Scenario_33,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_33,"Name 1 Female, Name 2 Male",Question_2,0.0,0.2,4.4,3.0,0.6,1.8
+Scenario_33,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_33,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.4,3.0,1.6,2.0
+Scenario_33,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.0,3.8,1.2,1.0
+Scenario_33,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.6,3.6,0.4,1.4
+Scenario_33,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.2,5.0,4.0,0.0,0.8
+Scenario_33,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_33,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_33,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,1.8,3.0,2.8,1.8
+Scenario_33,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_33,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_33,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_33,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.4,2.4,1.6,2.6
+Scenario_33,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.0,3.4,1.4,1.6
+Scenario_33,Original,Question_1,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_33,Original,Question_2,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_33,Original,Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_33,Original,Question_4,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_33,Original,Question_5,0.0,0.0,3.2,2.8,1.8,1.8
+Scenario_34,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.2,3.8,3.6,1.2,1.2
+Scenario_34,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_34,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_34,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_34,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,3.2,2.2,1.6
+Scenario_34,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_34,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_34,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_34,"Name 1 Female, Name 2 Male",Question_4,0.0,0.2,4.2,3.2,0.8,1.6
+Scenario_34,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.8,3.2,2.2,1.8
+Scenario_34,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_34,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_34,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_34,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.2,2.8,0.8,2.2
+Scenario_34,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.4,3.6,1.6,1.2
+Scenario_34,"Name 1 Male, Name 2 Female",Question_1,0.2,0.0,3.2,3.2,1.6,1.8
+Scenario_34,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_34,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,3.6,0.4,1.2
+Scenario_34,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_34,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.2,3.0,1.6,1.8
+Scenario_34,Original,Question_1,0.0,0.0,4.2,3.2,0.8,1.8
+Scenario_34,Original,Question_2,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_34,Original,Question_3,0.0,0.0,4.2,4.2,0.4,0.8
+Scenario_34,Original,Question_4,0.0,0.2,4.2,3.4,0.8,1.4
+Scenario_34,Original,Question_5,0.0,0.0,2.8,3.0,1.2,1.8
+Scenario_35,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_35,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.2,3.6,1.8,1.4
+Scenario_35,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.2,3.6,0.8,1.2
+Scenario_35,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.2,3.6,1.8,1.4
+Scenario_35,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.6,3.0,2.4,1.4
+Scenario_35,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.4,3.4,1.6,1.6
+Scenario_35,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_35,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_35,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_35,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.0,2.8,2.0,2.2
+Scenario_35,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_35,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_35,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_35,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.6,4.0,1.4,1.0
+Scenario_35,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.4,2.8,2.6,2.0
+Scenario_35,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_35,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_35,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.2,4.8,0.8,0.2
+Scenario_35,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.4,3.8,1.6,1.2
+Scenario_35,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.6,3.8,1.8,1.2
+Scenario_35,Original,Question_1,0.0,0.0,3.4,3.8,1.6,1.2
+Scenario_35,Original,Question_2,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_35,Original,Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_35,Original,Question_4,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_35,Original,Question_5,0.0,0.0,2.8,3.4,2.2,1.2
+Scenario_36,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.6,4.0,1.4,1.0
+Scenario_36,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.4,3.0,1.6,2.0
+Scenario_36,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_36,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.2,2.8,3.4,2.2,1.4
+Scenario_36,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,1.8,2.2,2.6,2.0
+Scenario_36,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_36,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_36,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,3.8,4.4,1.2,0.6
+Scenario_36,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.8,2.8,1.2,2.2
+Scenario_36,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,1.8,2.8,2.8,2.0
+Scenario_36,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_36,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_36,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_36,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.2,2.8,1.8,2.2
+Scenario_36,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,1.4,2.6,3.0,1.6
+Scenario_36,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_36,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_36,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,3.8,0.4,1.2
+Scenario_36,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.8,2.8,1.2,2.2
+Scenario_36,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,2.0,1.8,3.0
+Scenario_36,Original,Question_1,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_36,Original,Question_2,0.0,0.0,3.6,3.4,1.4,1.4
+Scenario_36,Original,Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_36,Original,Question_4,0.0,0.0,3.2,2.6,1.8,2.4
+Scenario_36,Original,Question_5,0.0,0.0,3.0,2.6,1.2,2.4
+Scenario_37,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_37,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_37,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_37,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.0,3.6,2.0,1.4
+Scenario_37,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.0,2.8,1.8,2.0
+Scenario_37,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.8,2.8,1.2,2.2
+Scenario_37,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_37,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,3.2,0.4,1.8
+Scenario_37,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.0,4.4,2.0,0.6
+Scenario_37,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.8,3.2,1.6,1.4
+Scenario_37,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.2,4.2,1.8,0.8
+Scenario_37,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,3.6,4.6,1.4,0.4
+Scenario_37,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_37,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.2,3.6,4.0,1.4,0.8
+Scenario_37,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.8,3.0,2.0,1.0
+Scenario_37,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_37,"Name 1 Male, Name 2 Female",Question_2,0.2,0.0,4.0,3.6,0.8,1.4
+Scenario_37,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_37,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.6,3.0,1.4,2.0
+Scenario_37,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.2,2.6,2.8,1.8
+Scenario_37,Original,Question_1,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_37,Original,Question_2,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_37,Original,Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_37,Original,Question_4,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_37,Original,Question_5,0.0,0.0,3.0,3.6,1.4,1.4
+Scenario_38,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.0,4.6,1.0,0.4
+Scenario_38,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_38,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_38,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.2,3.0,3.8,2.0,1.0
+Scenario_38,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.4,3.6,2.4,1.4
+Scenario_38,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.8,4.4,1.2,0.6
+Scenario_38,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.4,3.4,0.6,1.6
+Scenario_38,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_38,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.8,4.6,1.2,0.4
+Scenario_38,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.6,4.0,1.8,1.0
+Scenario_38,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.8,4.4,1.2,0.6
+Scenario_38,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_38,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.0,0.2,1.0
+Scenario_38,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,2.0,3.8,3.0,1.2
+Scenario_38,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.0,3.2,2.8,1.8
+Scenario_38,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_38,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_38,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_38,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_38,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,3.6,1.4,1.4
+Scenario_38,Original,Question_1,0.0,0.0,3.4,4.4,1.6,0.6
+Scenario_38,Original,Question_2,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_38,Original,Question_3,0.0,0.0,4.6,5.0,0.4,0.0
+Scenario_38,Original,Question_4,0.0,0.0,3.4,4.4,1.6,0.6
+Scenario_38,Original,Question_5,0.0,0.0,2.0,3.6,1.4,1.0
+Scenario_39,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.4,3.8,1.6,1.2
+Scenario_39,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.8,4.6,1.2,0.4
+Scenario_39,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.4,0.4,0.6
+Scenario_39,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_39,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,1.8,3.0,2.6,1.8
+Scenario_39,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.8,2.8,1.2,2.2
+Scenario_39,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_39,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.0,4.4,0.6,0.6
+Scenario_39,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.4,3.4,1.6,1.6
+Scenario_39,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,1.8,2.8,2.6,1.8
+Scenario_39,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,2.6,4.0,2.4,1.0
+Scenario_39,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_39,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_39,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,2.8,2.8,2.2,2.2
+Scenario_39,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,1.6,3.2,3.4,1.8
+Scenario_39,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_39,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_39,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_39,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_39,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,3.0,1.8,2.0
+Scenario_39,Original,Question_1,0.0,0.0,3.2,3.4,1.8,1.0
+Scenario_39,Original,Question_2,0.0,0.2,3.8,3.8,1.2,1.0
+Scenario_39,Original,Question_3,0.0,0.0,4.0,3.2,0.8,1.8
+Scenario_39,Original,Question_4,0.0,0.0,3.2,4.0,1.8,1.0
+Scenario_39,Original,Question_5,0.0,0.0,3.4,2.8,1.2,1.8
+Scenario_4,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_4,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_4,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,5.0,4.4,0.0,0.6
+Scenario_4,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_4,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.8,3.2,0.8,1.8
+Scenario_4,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_4,"Name 1 Female, Name 2 Male",Question_2,0.2,0.0,4.4,4.0,0.4,1.0
+Scenario_4,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,3.8,4.0,1.0,1.0
+Scenario_4,"Name 1 Female, Name 2 Male",Question_4,0.0,0.2,4.4,4.4,0.6,0.4
+Scenario_4,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.6,3.0,1.2,2.0
+Scenario_4,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_4,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_4,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_4,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_4,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,4.2,3.0,0.8,2.0
+Scenario_4,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_4,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_4,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_4,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,3.2,1.0,1.8
+Scenario_4,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.4,3.0,1.4,2.0
+Scenario_4,Original,Question_1,0.0,0.4,4.2,3.8,0.8,0.8
+Scenario_4,Original,Question_2,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_4,Original,Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_4,Original,Question_4,0.0,0.2,4.6,4.0,0.4,0.8
+Scenario_4,Original,Question_5,0.0,0.0,3.0,3.8,1.8,1.2
+Scenario_40,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.2,4.4,1.8,0.6
+Scenario_40,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_40,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_40,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.0,4.2,2.0,0.6
+Scenario_40,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.6,3.6,2.4,1.4
+Scenario_40,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.8,4.6,1.2,0.4
+Scenario_40,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.2,2.6,0.8,1.8
+Scenario_40,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.8,4.4,0.0,0.6
+Scenario_40,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.0,4.0,2.0,1.0
+Scenario_40,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.2,4.2,2.0,0.6
+Scenario_40,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.2,3.6,3.6,1.4,1.2
+Scenario_40,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.2,4.2,3.8,0.8,1.0
+Scenario_40,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_40,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.2,3.0,1.8,2.0
+Scenario_40,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.0,3.2,2.0,1.8
+Scenario_40,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.4,4.2,1.6,0.8
+Scenario_40,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_40,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_40,"Name 1 Male, Name 2 Female",Question_4,0.4,0.0,3.6,3.6,1.0,1.4
+Scenario_40,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.6,2.8,1.8,2.2
+Scenario_40,Original,Question_1,0.0,0.2,3.6,4.0,1.4,0.8
+Scenario_40,Original,Question_2,0.0,0.2,4.6,4.4,0.4,0.4
+Scenario_40,Original,Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_40,Original,Question_4,0.0,0.0,3.0,3.8,2.0,1.2
+Scenario_40,Original,Question_5,0.0,0.0,2.6,3.6,1.8,1.2
+Scenario_41,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_41,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_41,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,5.0,0.2,0.0
+Scenario_41,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.2,4.0,1.8,1.0
+Scenario_41,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.0,3.0,1.4,2.0
+Scenario_41,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_41,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_41,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,5.0,4.4,0.0,0.4
+Scenario_41,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_41,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.2,3.8,2.4,1.2
+Scenario_41,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.6,3.6,1.4,1.2
+Scenario_41,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,3.8,4.2,1.2,0.8
+Scenario_41,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_41,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.0,4.2,2.0,0.8
+Scenario_41,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.4,2.6,2.2,2.4
+Scenario_41,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_41,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_41,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,4.6,0.0,0.4
+Scenario_41,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,3.0,1.0,2.0
+Scenario_41,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.6,2.4,1.8,2.0
+Scenario_41,Original,Question_1,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_41,Original,Question_2,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_41,Original,Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_41,Original,Question_4,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_41,Original,Question_5,0.0,0.0,3.2,2.4,1.4,2.0
+Scenario_42,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.2,3.2,1.8,1.8
+Scenario_42,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.2,0.0,3.8,2.6,1.0,2.4
+Scenario_42,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.2,0.2,0.8
+Scenario_42,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_42,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,3.0,2.2,1.8
+Scenario_42,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_42,"Name 1 Female, Name 2 Male",Question_2,0.0,0.2,4.4,3.4,0.6,1.4
+Scenario_42,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.0,4.0,0.4,1.0
+Scenario_42,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,2.8,3.6,2.2,1.2
+Scenario_42,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,1.6,2.0,2.6,2.4
+Scenario_42,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.4,3.4,1.6,1.6
+Scenario_42,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_42,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,5.0,4.6,0.0,0.4
+Scenario_42,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.2,2.6,0.8,2.4
+Scenario_42,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.6,2.4,1.2,2.4
+Scenario_42,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_42,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_42,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_42,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.2,3.4,1.6,1.6
+Scenario_42,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.0,3.2,1.8,1.8
+Scenario_42,Original,Question_1,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_42,Original,Question_2,0.0,0.4,4.4,3.2,0.6,1.4
+Scenario_42,Original,Question_3,0.0,0.0,4.6,4.0,0.2,1.0
+Scenario_42,Original,Question_4,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_42,Original,Question_5,0.0,0.0,2.8,2.2,1.6,2.2
+Scenario_43,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.8,3.6,3.2,1.4,1.0
+Scenario_43,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.4,3.2,1.6,1.8
+Scenario_43,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.4,4.2,4.0,0.6,0.4
+Scenario_43,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,2.8,3.6,2.2,1.4
+Scenario_43,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.4,3.2,2.6,1.4,1.6
+Scenario_43,"Name 1 Female, Name 2 Male",Question_1,0.0,0.8,3.8,3.6,1.2,0.6
+Scenario_43,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_43,"Name 1 Female, Name 2 Male",Question_3,0.0,0.2,4.4,3.4,0.6,1.4
+Scenario_43,"Name 1 Female, Name 2 Male",Question_4,0.0,0.2,2.2,3.6,2.8,1.2
+Scenario_43,"Name 1 Female, Name 2 Male",Question_5,0.0,0.4,2.6,3.6,1.4,1.0
+Scenario_43,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.8,2.8,3.0,2.2,1.2
+Scenario_43,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.2,0.2,4.2,3.6,0.6,1.2
+Scenario_43,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_43,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.4,3.4,3.4,1.6,1.2
+Scenario_43,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.8,2.6,2.6,2.4,1.6
+Scenario_43,"Name 1 Male, Name 2 Female",Question_1,0.0,1.0,3.6,3.2,1.4,0.8
+Scenario_43,"Name 1 Male, Name 2 Female",Question_2,0.2,0.0,4.0,3.2,0.8,1.8
+Scenario_43,"Name 1 Male, Name 2 Female",Question_3,0.2,0.2,4.0,4.2,0.8,0.6
+Scenario_43,"Name 1 Male, Name 2 Female",Question_4,0.0,0.6,3.0,3.0,2.0,1.4
+Scenario_43,"Name 1 Male, Name 2 Female",Question_5,0.0,0.8,2.2,2.4,2.2,1.6
+Scenario_43,Original,Question_1,0.0,0.8,2.6,3.4,2.4,0.8
+Scenario_43,Original,Question_2,0.0,0.2,3.6,2.4,1.4,2.4
+Scenario_43,Original,Question_3,0.4,0.2,3.8,4.4,0.8,0.4
+Scenario_43,Original,Question_4,0.0,0.4,3.0,3.6,2.0,1.0
+Scenario_43,Original,Question_5,0.0,0.6,2.6,2.4,2.4,1.8
+Scenario_44,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.2,3.2,1.4,1.8
+Scenario_44,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.2,4.8,3.6,0.2,1.2
+Scenario_44,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.2,0.4,0.8
+Scenario_44,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.6,2.4,1.4,2.6
+Scenario_44,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,4.0,3.6,1.0,1.2
+Scenario_44,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.2,3.4,1.8,1.6
+Scenario_44,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.6,4.2,1.4,0.8
+Scenario_44,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_44,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_44,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.2,2.6,1.4,2.2
+Scenario_44,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.2,4.2,1.8,0.8
+Scenario_44,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.2,0.0,4.0,4.6,0.8,0.4
+Scenario_44,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_44,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.2,0.0,3.2,3.2,1.6,1.8
+Scenario_44,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.6,2.6,1.4,2.0
+Scenario_44,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.6,4.2,1.4,0.8
+Scenario_44,"Name 1 Male, Name 2 Female",Question_2,0.2,0.0,3.8,4.8,1.0,0.2
+Scenario_44,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_44,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_44,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,3.0,1.8,2.0
+Scenario_44,Original,Question_1,0.0,0.0,3.2,3.2,1.8,1.8
+Scenario_44,Original,Question_2,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_44,Original,Question_3,0.0,0.0,4.6,4.4,0.0,0.4
+Scenario_44,Original,Question_4,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_44,Original,Question_5,0.0,0.0,3.2,3.2,1.8,1.6
+Scenario_45,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.2,4.2,3.8,0.8,1.0
+Scenario_45,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_45,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_45,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_45,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.6,3.6,2.2,1.4
+Scenario_45,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.2,4.2,1.8,0.8
+Scenario_45,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_45,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.6,0.2,0.4
+Scenario_45,"Name 1 Female, Name 2 Male",Question_4,0.0,0.2,3.8,3.4,1.2,1.4
+Scenario_45,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.0,3.6,2.0,1.4
+Scenario_45,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_45,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_45,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,3.8,0.2,1.2
+Scenario_45,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.0,3.6,2.0,1.0
+Scenario_45,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.4,3.0,2.4,2.0
+Scenario_45,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_45,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_45,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.2,4.4,0.4,0.6
+Scenario_45,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_45,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.4,2.8,1.2,2.2
+Scenario_45,Original,Question_1,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_45,Original,Question_2,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_45,Original,Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_45,Original,Question_4,0.2,0.0,2.8,4.2,1.8,0.8
+Scenario_45,Original,Question_5,0.0,0.0,2.4,3.6,2.2,1.4
+Scenario_46,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_46,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_46,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,3.4,0.6,1.6
+Scenario_46,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.4,3.8,3.4,1.2,1.2
+Scenario_46,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,4.0,2.6,1.0,1.8
+Scenario_46,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.4,4.4,1.6,0.6
+Scenario_46,"Name 1 Female, Name 2 Male",Question_2,0.0,0.2,3.6,4.0,1.4,0.8
+Scenario_46,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,3.8,4.4,1.2,0.6
+Scenario_46,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.4,3.2,1.6,1.6
+Scenario_46,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.2,2.6,1.8,2.0
+Scenario_46,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.2,4.2,1.8,0.8
+Scenario_46,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_46,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_46,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_46,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.6,2.8,2.4,2.0
+Scenario_46,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_46,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.0,4.8,1.0,0.2
+Scenario_46,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_46,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.0,3.4,2.0,1.6
+Scenario_46,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.2,3.4,2.0,1.2
+Scenario_46,Original,Question_1,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_46,Original,Question_2,0.0,0.0,4.2,3.8,0.8,1.0
+Scenario_46,Original,Question_3,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_46,Original,Question_4,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_46,Original,Question_5,0.0,0.0,2.4,2.4,2.4,2.6
+Scenario_47,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_47,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.6,3.4,0.4,1.6
+Scenario_47,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_47,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.2,3.6,1.2,1.4
+Scenario_47,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_47,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_47,"Name 1 Female, Name 2 Male",Question_2,0.2,0.0,3.8,4.0,1.0,1.0
+Scenario_47,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.0,4.2,0.8,0.6
+Scenario_47,"Name 1 Female, Name 2 Male",Question_4,0.2,0.0,4.4,4.0,0.4,1.0
+Scenario_47,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_47,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.2,0.0,3.4,3.2,1.4,1.6
+Scenario_47,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,5.0,4.2,0.0,0.8
+Scenario_47,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_47,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_47,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.4,3.0,1.6,2.0
+Scenario_47,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.4,2.8,1.6,2.2
+Scenario_47,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_47,"Name 1 Male, Name 2 Female",Question_3,0.0,0.2,3.6,4.0,0.8,0.6
+Scenario_47,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,2.6,3.2,2.4,1.8
+Scenario_47,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.0,3.6,1.2,1.2
+Scenario_47,Original,Question_1,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_47,Original,Question_2,0.0,0.0,4.6,4.8,0.4,0.2
+Scenario_47,Original,Question_3,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_47,Original,Question_4,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_47,Original,Question_5,0.0,0.0,3.4,3.0,0.6,2.0
+Scenario_48,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_48,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_48,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_48,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.8,3.4,0.2,1.6
+Scenario_48,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.2,3.2,1.6,1.8
+Scenario_48,"Name 1 Female, Name 2 Male",Question_1,0.0,0.2,4.0,4.0,1.0,0.8
+Scenario_48,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.4,4.2,1.6,0.8
+Scenario_48,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_48,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_48,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.8,3.2,1.8,1.2
+Scenario_48,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.2,4.2,3.8,0.8,1.0
+Scenario_48,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_48,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.0,4.4,0.8,0.6
+Scenario_48,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_48,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.4,2.8,2.4,2.2
+Scenario_48,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_48,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.6,4.4,1.4,0.6
+Scenario_48,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.0,3.8,0.6,1.2
+Scenario_48,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_48,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,2.8,1.0,1.4
+Scenario_48,Original,Question_1,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_48,Original,Question_2,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_48,Original,Question_3,0.0,0.0,3.8,4.8,0.8,0.2
+Scenario_48,Original,Question_4,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_48,Original,Question_5,0.0,0.2,3.8,3.8,1.2,1.0
+Scenario_49,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_49,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_49,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_49,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.4,3.0,1.6,2.0
+Scenario_49,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.4,2.8,2.6,2.0
+Scenario_49,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_49,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_49,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_49,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.8,4.2,1.2,0.8
+Scenario_49,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.6,3.2,1.0,1.8
+Scenario_49,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_49,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.2,4.4,4.2,0.6,0.6
+Scenario_49,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_49,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.0,3.8,2.0,1.2
+Scenario_49,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.2,2.4,2.4,2.2
+Scenario_49,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_49,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_49,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_49,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_49,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,3.0,1.8,2.0
+Scenario_49,Original,Question_1,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_49,Original,Question_2,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_49,Original,Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_49,Original,Question_4,0.0,0.0,3.2,3.4,1.8,1.6
+Scenario_49,Original,Question_5,0.0,0.0,3.0,3.0,1.4,2.0
+Scenario_5,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_5,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_5,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,5.0,3.8,0.0,1.2
+Scenario_5,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_5,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,3.0,1.8,1.6
+Scenario_5,"Name 1 Female, Name 2 Male",Question_1,0.0,0.2,3.8,3.2,1.2,1.6
+Scenario_5,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_5,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_5,"Name 1 Female, Name 2 Male",Question_4,0.0,0.2,4.0,2.8,1.0,2.0
+Scenario_5,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.0,2.0,2.0,2.4
+Scenario_5,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.0,2.6,1.0,2.4
+Scenario_5,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.2,4.8,3.4,0.2,1.4
+Scenario_5,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,3.6,0.2,1.4
+Scenario_5,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.8,2.2,1.2,2.8
+Scenario_5,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.2,0.0,3.4,2.8,1.4,2.0
+Scenario_5,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.2,3.0,0.8,2.0
+Scenario_5,"Name 1 Male, Name 2 Female",Question_2,0.0,0.2,4.2,3.4,0.8,1.4
+Scenario_5,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,4.2,0.2,0.8
+Scenario_5,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,3.8,0.6,1.2
+Scenario_5,"Name 1 Male, Name 2 Female",Question_5,0.0,0.2,3.0,1.6,2.0,3.2
+Scenario_5,Original,Question_1,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_5,Original,Question_2,0.0,0.0,5.0,3.6,0.0,1.4
+Scenario_5,Original,Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_5,Original,Question_4,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_5,Original,Question_5,0.0,0.0,3.6,2.4,1.2,2.4
+Scenario_50,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_50,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_50,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,5.0,4.6,0.0,0.4
+Scenario_50,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.4,3.2,1.6,1.8
+Scenario_50,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.4,3.2,1.4,1.8
+Scenario_50,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_50,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_50,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.0,0.6,0.6
+Scenario_50,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_50,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.0,2.6,1.2,2.4
+Scenario_50,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_50,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_50,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_50,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_50,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.4,2.8,1.8,1.6
+Scenario_50,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_50,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_50,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,4.8,0.6,0.2
+Scenario_50,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_50,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.6,4.0,1.0,1.0
+Scenario_50,Original,Question_1,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_50,Original,Question_2,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_50,Original,Question_3,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_50,Original,Question_4,0.0,0.0,3.2,4.2,1.8,0.6
+Scenario_50,Original,Question_5,0.0,0.0,2.8,4.0,1.8,1.0
+Scenario_51,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.2,3.0,1.8,2.0
+Scenario_51,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_51,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_51,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.2,4.0,1.8,1.0
+Scenario_51,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.2,3.0,2.8,2.0
+Scenario_51,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_51,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.2,3.0,0.8,2.0
+Scenario_51,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_51,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_51,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.6,2.0,1.4,2.8
+Scenario_51,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.2,3.4,1.8,1.6
+Scenario_51,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,3.6,4.2,1.4,0.8
+Scenario_51,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_51,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_51,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,1.8,2.6,2.4,1.0
+Scenario_51,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,2.6,3.0,2.4,2.0
+Scenario_51,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.0,3.2,1.0,1.8
+Scenario_51,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_51,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_51,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.4,3.2,2.0,1.6
+Scenario_51,Original,Question_1,0.0,0.0,2.6,3.2,2.4,1.8
+Scenario_51,Original,Question_2,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_51,Original,Question_3,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_51,Original,Question_4,0.0,0.0,3.0,4.2,2.0,0.8
+Scenario_51,Original,Question_5,0.0,0.0,3.2,3.6,1.8,0.8
+Scenario_52,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,2.2,0.8,2.8
+Scenario_52,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,3.2,0.6,1.8
+Scenario_52,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,5.0,4.4,0.0,0.6
+Scenario_52,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.4,2.8,0.6,2.2
+Scenario_52,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.2,2.6,1.4,2.2
+Scenario_52,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.2,3.2,0.8,1.4
+Scenario_52,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_52,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_52,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.2,2.8,1.8,2.2
+Scenario_52,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.6,2.8,0.6,1.6
+Scenario_52,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.6,3.2,0.4,1.8
+Scenario_52,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_52,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,5.0,4.6,0.0,0.4
+Scenario_52,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.6,3.0,0.4,2.0
+Scenario_52,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.4,2.4,2.0,2.2
+Scenario_52,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_52,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_52,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,5.0,4.6,0.0,0.4
+Scenario_52,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.2,3.6,1.8,1.4
+Scenario_52,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.2,3.4,1.8,1.2
+Scenario_52,Original,Question_1,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_52,Original,Question_2,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_52,Original,Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_52,Original,Question_4,0.0,0.0,4.2,2.4,0.6,2.6
+Scenario_52,Original,Question_5,0.0,0.0,3.0,2.2,1.2,2.8
+Scenario_53,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.6,2.8,1.4,2.2
+Scenario_53,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_53,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_53,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.4,3.4,1.6,1.6
+Scenario_53,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.4,3.0,1.2,2.0
+Scenario_53,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_53,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.4,3.8,1.6,1.2
+Scenario_53,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_53,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_53,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.2,3.4,1.4,1.6
+Scenario_53,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_53,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_53,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,3.8,4.2,1.2,0.8
+Scenario_53,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,2.6,3.4,2.4,1.6
+Scenario_53,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.2,0.0,3.0,3.6,1.4,1.4
+Scenario_53,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,2.4,3.2,2.6,1.8
+Scenario_53,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.4,4.8,1.6,0.2
+Scenario_53,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_53,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.2,3.2,1.8,1.8
+Scenario_53,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.6,2.6,2.0,2.4
+Scenario_53,Original,Question_1,0.0,0.2,2.4,3.0,2.6,1.8
+Scenario_53,Original,Question_2,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_53,Original,Question_3,0.0,0.0,3.6,3.0,0.8,1.0
+Scenario_53,Original,Question_4,0.0,0.0,3.2,3.6,1.8,1.4
+Scenario_53,Original,Question_5,0.0,0.0,2.4,2.6,2.2,2.2
+Scenario_54,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.6,2.8,1.4,2.2
+Scenario_54,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_54,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_54,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.4,3.0,1.6,2.0
+Scenario_54,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_54,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_54,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_54,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_54,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.0,3.0,1.0,2.0
+Scenario_54,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.8,2.8,1.8,2.0
+Scenario_54,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_54,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,3.8,4.6,1.2,0.4
+Scenario_54,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_54,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_54,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.0,2.8,2.0,1.4
+Scenario_54,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_54,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_54,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_54,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.2,2.6,0.8,2.4
+Scenario_54,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.6,3.2,1.2,1.8
+Scenario_54,Original,Question_1,0.0,0.0,3.4,3.8,1.6,1.2
+Scenario_54,Original,Question_2,0.0,0.0,4.6,3.2,0.4,1.8
+Scenario_54,Original,Question_3,0.0,0.0,4.2,4.8,0.8,0.2
+Scenario_54,Original,Question_4,0.0,0.0,4.2,3.6,0.6,1.4
+Scenario_54,Original,Question_5,0.0,0.0,2.8,2.4,0.8,2.2
+Scenario_55,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.0,3.4,2.0,1.6
+Scenario_55,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,3.4,0.6,1.6
+Scenario_55,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_55,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,2.6,2.8,2.4,2.2
+Scenario_55,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.6,3.0,2.0,1.8
+Scenario_55,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.0,3.4,2.0,1.6
+Scenario_55,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_55,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_55,"Name 1 Female, Name 2 Male",Question_4,0.0,0.2,2.6,2.6,2.4,2.2
+Scenario_55,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.6,2.6,1.8,2.2
+Scenario_55,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_55,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_55,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.0,0.2,1.0
+Scenario_55,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_55,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.4,2.6,2.6,2.2
+Scenario_55,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.2,4.2,1.8,0.8
+Scenario_55,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_55,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.0,4.0,0.8,0.8
+Scenario_55,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,2.8,2.8,2.2,2.2
+Scenario_55,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.8,2.2,2.0,2.6
+Scenario_55,Original,Question_1,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_55,Original,Question_2,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_55,Original,Question_3,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_55,Original,Question_4,0.0,0.0,3.0,3.2,2.0,1.8
+Scenario_55,Original,Question_5,0.0,0.0,3.0,3.2,1.6,1.8
+Scenario_56,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,2.8,3.4,2.2,1.6
+Scenario_56,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_56,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,3.6,4.0,1.4,1.0
+Scenario_56,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.0,2.4,2.0,2.6
+Scenario_56,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.0,2.2,2.0,2.4
+Scenario_56,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_56,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_56,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_56,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,2.6,3.2,2.4,1.8
+Scenario_56,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.2,2.6,1.6,2.4
+Scenario_56,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.2,3.0,3.0,2.0,1.8
+Scenario_56,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_56,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_56,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_56,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,2.6,1.0,2.4
+Scenario_56,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.2,2.6,1.6,2.2
+Scenario_56,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_56,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_56,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.0,3.2,2.0,1.8
+Scenario_56,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.8,2.6,1.8,2.4
+Scenario_56,Original,Question_1,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_56,Original,Question_2,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_56,Original,Question_3,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_56,Original,Question_4,0.0,0.0,3.0,3.6,2.0,1.4
+Scenario_56,Original,Question_5,0.0,0.0,2.8,3.0,1.6,2.0
+Scenario_57,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_57,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_57,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_57,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.2,3.2,0.8,1.8
+Scenario_57,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,4.2,3.2,0.8,1.8
+Scenario_57,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_57,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_57,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,5.0,4.4,0.0,0.6
+Scenario_57,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.8,1.4,1.2,3.6
+Scenario_57,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.0,3.0,2.0,2.0
+Scenario_57,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.6,4.0,1.4,1.0
+Scenario_57,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_57,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_57,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.2,3.0,0.8,2.0
+Scenario_57,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,3.2,1.0,1.8
+Scenario_57,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_57,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_57,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_57,"Name 1 Male, Name 2 Female",Question_4,0.0,0.2,3.8,3.6,1.2,1.2
+Scenario_57,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.6,2.8,1.0,2.2
+Scenario_57,Original,Question_1,0.0,0.0,3.0,3.2,2.0,1.8
+Scenario_57,Original,Question_2,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_57,Original,Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_57,Original,Question_4,0.0,0.0,3.0,4.0,2.0,1.0
+Scenario_57,Original,Question_5,0.0,0.0,3.0,3.2,1.0,1.2
+Scenario_58,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.8,2.8,1.2,2.2
+Scenario_58,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.2,4.2,4.2,0.8,0.6
+Scenario_58,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,3.8,4.2,1.2,0.8
+Scenario_58,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.2,3.0,3.6,2.0,1.2
+Scenario_58,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.0,2.8,1.6,1.6
+Scenario_58,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.8,3.0,1.2,1.8
+Scenario_58,"Name 1 Female, Name 2 Male",Question_2,0.2,0.0,3.6,3.8,1.2,1.2
+Scenario_58,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_58,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.4,3.2,1.6,1.8
+Scenario_58,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.2,2.8,1.0,2.0
+Scenario_58,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.4,3.4,1.6,1.6
+Scenario_58,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.2,3.4,4.0,1.6,0.8
+Scenario_58,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_58,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_58,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.4,2.4,2.6,2.6
+Scenario_58,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_58,"Name 1 Male, Name 2 Female",Question_2,0.0,0.2,4.0,4.0,1.0,0.8
+Scenario_58,"Name 1 Male, Name 2 Female",Question_3,0.2,0.0,3.4,3.6,1.4,1.4
+Scenario_58,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.4,3.4,1.6,1.6
+Scenario_58,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.6,2.8,0.8,2.0
+Scenario_58,Original,Question_1,0.2,0.0,3.6,2.8,1.2,2.2
+Scenario_58,Original,Question_2,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_58,Original,Question_3,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_58,Original,Question_4,0.0,0.0,3.0,3.4,2.0,1.6
+Scenario_58,Original,Question_5,0.0,0.2,3.4,2.6,1.0,1.8
+Scenario_59,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.2,3.2,1.8,1.8
+Scenario_59,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_59,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_59,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,2.2,4.2,2.8,0.8
+Scenario_59,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.4,3.8,1.2,1.2
+Scenario_59,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_59,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_59,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,5.0,4.2,0.0,0.8
+Scenario_59,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.0,3.6,2.0,1.4
+Scenario_59,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.4,3.4,2.6,1.2
+Scenario_59,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_59,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.6,3.4,0.4,1.6
+Scenario_59,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_59,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,2.2,3.8,2.8,1.2
+Scenario_59,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,3.6,1.8,1.2
+Scenario_59,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.4,3.8,1.6,1.2
+Scenario_59,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_59,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_59,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.4,3.0,1.6,2.0
+Scenario_59,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.8,3.4,1.8,1.6
+Scenario_59,Original,Question_1,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_59,Original,Question_2,0.0,0.0,4.6,3.6,0.4,1.4
+Scenario_59,Original,Question_3,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_59,Original,Question_4,0.0,0.0,2.8,3.8,2.2,1.2
+Scenario_59,Original,Question_5,0.0,0.0,2.2,3.4,2.4,1.6
+Scenario_6,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_6,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,5.0,4.2,0.0,0.8
+Scenario_6,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.0,0.2,1.0
+Scenario_6,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.0,4.0,2.0,1.0
+Scenario_6,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_6,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_6,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.8,3.6,0.2,1.4
+Scenario_6,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_6,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.4,3.8,1.6,1.2
+Scenario_6,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_6,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_6,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_6,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_6,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.4,3.0,1.6,2.0
+Scenario_6,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.8,3.2,1.8,1.8
+Scenario_6,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_6,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_6,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_6,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_6,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.4,2.8,2.6,2.0
+Scenario_6,Original,Question_1,0.0,0.0,4.0,2.4,1.0,2.2
+Scenario_6,Original,Question_2,0.0,0.0,4.8,3.4,0.2,1.6
+Scenario_6,Original,Question_3,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_6,Original,Question_4,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_6,Original,Question_5,0.0,0.0,3.4,3.4,1.4,1.6
+Scenario_60,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_60,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_60,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_60,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.6,3.0,1.4,2.0
+Scenario_60,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.2,3.0,2.8,1.8,1.8
+Scenario_60,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.4,3.2,0.6,1.8
+Scenario_60,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_60,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_60,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.2,3.0,0.8,2.0
+Scenario_60,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.0,3.0,1.8,1.8
+Scenario_60,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.0,3.2,1.0,1.8
+Scenario_60,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.8,3.8,0.2,1.2
+Scenario_60,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.2,0.2,0.4
+Scenario_60,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.2,3.2,2.6,1.8,2.2
+Scenario_60,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.0,2.8,1.0,1.2
+Scenario_60,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_60,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_60,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,4.8,0.6,0.2
+Scenario_60,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_60,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.8,3.4,1.0,1.6
+Scenario_60,Original,Question_1,0.0,0.0,3.4,3.8,1.6,1.2
+Scenario_60,Original,Question_2,0.0,0.2,4.8,3.6,0.2,1.2
+Scenario_60,Original,Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_60,Original,Question_4,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_60,Original,Question_5,0.0,0.0,2.2,3.2,2.2,1.8
+Scenario_61,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_61,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.8,4.2,1.2,0.8
+Scenario_61,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.0,0.4,1.0
+Scenario_61,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_61,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.2,3.4,1.8,1.0,2.4
+Scenario_61,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.8,3.6,0.2,1.4
+Scenario_61,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.6,4.2,1.4,0.8
+Scenario_61,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_61,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.0,3.8,2.0,1.2
+Scenario_61,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.0,3.6,1.0,1.2
+Scenario_61,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.8,3.6,0.2,1.4
+Scenario_61,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.2,3.2,4.0,1.8,0.8
+Scenario_61,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.2,4.4,4.2,0.4,0.6
+Scenario_61,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.6,3.0,1.4,2.0
+Scenario_61,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.4,3.2,1.6,1.2
+Scenario_61,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.4,4.0,0.4,1.0
+Scenario_61,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_61,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_61,"Name 1 Male, Name 2 Female",Question_4,0.0,0.2,3.4,3.2,1.6,1.6
+Scenario_61,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.6,4.2,1.6,0.8
+Scenario_61,Original,Question_1,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_61,Original,Question_2,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_61,Original,Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_61,Original,Question_4,0.0,0.0,3.4,3.4,1.6,1.6
+Scenario_61,Original,Question_5,0.0,0.0,2.4,3.2,2.4,1.6
+Scenario_62,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.2,4.6,1.8,0.4
+Scenario_62,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_62,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_62,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_62,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,4.0,2.0,1.0
+Scenario_62,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.4,4.4,1.6,0.6
+Scenario_62,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_62,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_62,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.4,4.4,1.6,0.6
+Scenario_62,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.4,3.0,2.2,2.0
+Scenario_62,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.4,4.4,1.6,0.6
+Scenario_62,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_62,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_62,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_62,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,4.2,1.8,0.8
+Scenario_62,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,2.6,4.6,2.4,0.4
+Scenario_62,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.8,4.0,0.2,1.0
+Scenario_62,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_62,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_62,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.0,3.0,1.6,2.0
+Scenario_62,Original,Question_1,0.0,0.2,3.0,3.8,2.0,1.0
+Scenario_62,Original,Question_2,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_62,Original,Question_3,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_62,Original,Question_4,0.0,0.2,3.8,4.0,1.2,0.8
+Scenario_62,Original,Question_5,0.0,0.0,2.2,3.6,1.8,1.4
+Scenario_63,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_63,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_63,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,3.6,4.4,1.2,0.6
+Scenario_63,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.4,4.2,1.6,0.8
+Scenario_63,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,3.8,2.2,0.8
+Scenario_63,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_63,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.8,3.4,0.2,1.6
+Scenario_63,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.2,0.6,0.2
+Scenario_63,"Name 1 Female, Name 2 Male",Question_4,0.0,0.2,3.0,3.2,2.0,1.6
+Scenario_63,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.8,2.8,1.6,2.0
+Scenario_63,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_63,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_63,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_63,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.2,3.2,1.6,1.8
+Scenario_63,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.0,2.2,2.0,2.4
+Scenario_63,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_63,"Name 1 Male, Name 2 Female",Question_2,0.0,0.2,4.0,3.6,1.0,1.2
+Scenario_63,"Name 1 Male, Name 2 Female",Question_3,0.0,0.2,4.8,4.6,0.2,0.2
+Scenario_63,"Name 1 Male, Name 2 Female",Question_4,0.0,0.2,3.8,2.8,1.2,2.0
+Scenario_63,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.0,2.8,1.4,2.0
+Scenario_63,Original,Question_1,0.0,0.2,3.8,3.2,1.2,1.0
+Scenario_63,Original,Question_2,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_63,Original,Question_3,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_63,Original,Question_4,0.0,0.2,4.4,2.6,0.6,2.2
+Scenario_63,Original,Question_5,0.0,0.0,2.4,3.4,1.2,1.6
+Scenario_64,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_64,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_64,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.2,4.6,3.6,0.4,1.2
+Scenario_64,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.4,2.8,0.6,2.2
+Scenario_64,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.4,3.2,1.4,1.6
+Scenario_64,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_64,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.8,4.4,1.2,0.6
+Scenario_64,"Name 1 Female, Name 2 Male",Question_3,0.0,0.2,4.2,4.6,0.8,0.2
+Scenario_64,"Name 1 Female, Name 2 Male",Question_4,0.0,0.2,4.0,2.6,1.0,2.2
+Scenario_64,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.6,4.0,2.2,1.0
+Scenario_64,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.2,3.2,0.8,1.8
+Scenario_64,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_64,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_64,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.2,3.0,0.8,2.0
+Scenario_64,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.0,3.4,1.4,1.4
+Scenario_64,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_64,"Name 1 Male, Name 2 Female",Question_2,0.0,0.2,4.0,4.0,1.0,0.8
+Scenario_64,"Name 1 Male, Name 2 Female",Question_3,0.0,0.2,4.8,3.8,0.2,1.0
+Scenario_64,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.0,3.2,2.0,1.8
+Scenario_64,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.0,3.4,1.6,1.2
+Scenario_64,Original,Question_1,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_64,Original,Question_2,0.0,0.0,4.4,3.4,0.6,1.6
+Scenario_64,Original,Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_64,Original,Question_4,0.0,0.0,3.2,4.4,1.8,0.6
+Scenario_64,Original,Question_5,0.0,0.0,3.2,3.4,1.0,0.8
+Scenario_65,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_65,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_65,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_65,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.2,2.6,0.8,2.4
+Scenario_65,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.8,2.8,1.2,1.6
+Scenario_65,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_65,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_65,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_65,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.4,3.2,1.6,1.8
+Scenario_65,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.2,2.8,1.8,2.2
+Scenario_65,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.6,4.2,1.4,0.8
+Scenario_65,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,3.6,4.4,1.4,0.6
+Scenario_65,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_65,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.4,3.2,1.6,1.8
+Scenario_65,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,2.4,1.8,1.6
+Scenario_65,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_65,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_65,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_65,"Name 1 Male, Name 2 Female",Question_4,0.2,0.0,3.2,3.6,1.6,1.4
+Scenario_65,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.6,3.6,2.2,1.0
+Scenario_65,Original,Question_1,0.0,0.0,2.8,4.4,2.2,0.6
+Scenario_65,Original,Question_2,0.0,0.2,4.6,4.0,0.4,0.8
+Scenario_65,Original,Question_3,0.0,0.0,3.8,4.6,1.2,0.4
+Scenario_65,Original,Question_4,0.0,0.0,3.2,3.4,1.6,1.6
+Scenario_65,Original,Question_5,0.0,0.2,3.2,3.0,1.8,1.0
+Scenario_66,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_66,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_66,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_66,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_66,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,2.8,2.2,2.0
+Scenario_66,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_66,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,5.0,3.4,0.0,1.6
+Scenario_66,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.8,4.2,0.2,0.6
+Scenario_66,"Name 1 Female, Name 2 Male",Question_4,0.0,0.2,4.2,3.6,0.8,1.2
+Scenario_66,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.6,3.8,1.2,0.8
+Scenario_66,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_66,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_66,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_66,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.4,2.6,0.6,2.4
+Scenario_66,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,4.0,2.2,1.0,2.8
+Scenario_66,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_66,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_66,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_66,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_66,"Name 1 Male, Name 2 Female",Question_5,0.0,0.2,3.6,2.8,1.4,1.6
+Scenario_66,Original,Question_1,0.0,0.0,3.4,4.2,1.6,0.8
+Scenario_66,Original,Question_2,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_66,Original,Question_3,0.0,0.0,5.0,4.4,0.0,0.6
+Scenario_66,Original,Question_4,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_66,Original,Question_5,0.0,0.0,3.6,3.0,1.4,1.4
+Scenario_67,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.2,3.2,3.2,1.8,1.4
+Scenario_67,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_67,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_67,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.2,0.0,3.4,3.4,1.4,1.6
+Scenario_67,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.0,3.4,2.0,1.6
+Scenario_67,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_67,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_67,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,3.8,4.2,1.2,0.8
+Scenario_67,"Name 1 Female, Name 2 Male",Question_4,0.0,0.2,3.0,4.0,2.0,0.8
+Scenario_67,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.8,3.4,1.8,1.6
+Scenario_67,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_67,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.6,3.6,0.4,1.4
+Scenario_67,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,3.6,0.4,1.4
+Scenario_67,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_67,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.6,3.8,2.0,1.2
+Scenario_67,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.4,2.8,1.6,2.2
+Scenario_67,"Name 1 Male, Name 2 Female",Question_2,0.0,0.2,4.8,4.2,0.2,0.6
+Scenario_67,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_67,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.0,3.8,2.0,1.2
+Scenario_67,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,3.6,1.8,1.4
+Scenario_67,Original,Question_1,0.0,0.0,3.4,4.2,1.6,0.8
+Scenario_67,Original,Question_2,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_67,Original,Question_3,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_67,Original,Question_4,0.0,0.0,2.6,4.2,2.4,0.8
+Scenario_67,Original,Question_5,0.0,0.0,3.4,3.4,1.6,1.2
+Scenario_68,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_68,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_68,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_68,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.2,3.0,3.4,2.0,1.4
+Scenario_68,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.6,3.0,1.8,1.6
+Scenario_68,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_68,"Name 1 Female, Name 2 Male",Question_2,0.0,0.2,3.6,3.4,1.4,1.4
+Scenario_68,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_68,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_68,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.2,3.6,2.2,1.4
+Scenario_68,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_68,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.2,4.2,4.0,0.8,0.8
+Scenario_68,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.2,0.2,4.2,4.4,0.6,0.4
+Scenario_68,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,2.8,4.4,2.2,0.6
+Scenario_68,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.4,3.4,2.4,1.2
+Scenario_68,"Name 1 Male, Name 2 Female",Question_1,0.0,0.2,3.0,3.2,2.0,1.6
+Scenario_68,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_68,"Name 1 Male, Name 2 Female",Question_3,0.0,0.2,4.2,4.0,0.8,0.8
+Scenario_68,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,2.6,1.0,2.4
+Scenario_68,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.6,3.2,1.8,1.8
+Scenario_68,Original,Question_1,0.2,0.0,3.4,4.0,1.4,1.0
+Scenario_68,Original,Question_2,0.0,0.0,4.6,3.4,0.4,1.6
+Scenario_68,Original,Question_3,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_68,Original,Question_4,0.0,0.0,3.8,4.4,1.2,0.6
+Scenario_68,Original,Question_5,0.0,0.0,3.0,2.8,1.2,1.8
+Scenario_69,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_69,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_69,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_69,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_69,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,3.6,2.2,1.4
+Scenario_69,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_69,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_69,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_69,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_69,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.0,4.0,1.8,1.0
+Scenario_69,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.6,3.2,0.4,1.8
+Scenario_69,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_69,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_69,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.2,3.4,1.8,1.6
+Scenario_69,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.6,3.4,2.2,1.6
+Scenario_69,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_69,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_69,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.8,3.8,0.2,1.2
+Scenario_69,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.4,3.8,1.6,1.2
+Scenario_69,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.6,2.6,2.0,2.0
+Scenario_69,Original,Question_1,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_69,Original,Question_2,0.0,0.0,4.6,3.6,0.4,1.4
+Scenario_69,Original,Question_3,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_69,Original,Question_4,0.0,0.0,4.8,3.6,0.2,0.8
+Scenario_69,Original,Question_5,0.0,0.0,4.0,1.8,1.0,2.4
+Scenario_7,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_7,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_7,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.6,5.0,0.4,0.0
+Scenario_7,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,2.6,3.4,2.4,1.6
+Scenario_7,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.4,3.2,1.8,1.6
+Scenario_7,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.6,4.2,1.4,0.8
+Scenario_7,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_7,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_7,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_7,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.0,3.8,2.0,0.8
+Scenario_7,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.4,4.2,1.6,0.8
+Scenario_7,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_7,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_7,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,2.8,3.6,2.2,1.4
+Scenario_7,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,3.6,1.2,1.0
+Scenario_7,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.8,4.6,1.2,0.4
+Scenario_7,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_7,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.2,4.4,0.2,0.6
+Scenario_7,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.8,4.0,1.2,0.8
+Scenario_7,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.4,3.4,2.2,1.4
+Scenario_7,Original,Question_1,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_7,Original,Question_2,0.0,0.0,3.8,4.2,1.2,0.8
+Scenario_7,Original,Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_7,Original,Question_4,0.0,0.0,3.4,4.4,1.6,0.6
+Scenario_7,Original,Question_5,0.0,0.0,3.8,4.2,0.4,0.8
+Scenario_70,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_70,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_70,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_70,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.4,2.4,0.6,2.4
+Scenario_70,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,3.0,2.2,1.8
+Scenario_70,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_70,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_70,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_70,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_70,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.6,2.0,1.2,2.6
+Scenario_70,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_70,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_70,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,5.0,5.0,0.0,0.0
+Scenario_70,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.8,2.8,1.2,2.2
+Scenario_70,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,4.0,3.0,0.8,2.0
+Scenario_70,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.4,3.8,1.6,1.2
+Scenario_70,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.8,4.2,1.2,0.8
+Scenario_70,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_70,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_70,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,3.6,1.4,1.4
+Scenario_70,Original,Question_1,0.0,0.0,3.6,4.2,1.4,0.8
+Scenario_70,Original,Question_2,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_70,Original,Question_3,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_70,Original,Question_4,0.0,0.0,3.0,3.8,2.0,1.2
+Scenario_70,Original,Question_5,0.0,0.0,2.2,3.6,2.0,1.4
+Scenario_71,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_71,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_71,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.2,4.4,4.8,0.6,0.0
+Scenario_71,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.2,4.0,4.0,1.0,0.8
+Scenario_71,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.2,3.4,3.6,1.6,1.2
+Scenario_71,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,5.0,4.8,0.0,0.2
+Scenario_71,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,4.8,1.0,0.2
+Scenario_71,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,5.0,4.6,0.0,0.4
+Scenario_71,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.6,3.0,0.4,2.0
+Scenario_71,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.8,4.2,2.0,0.6
+Scenario_71,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_71,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_71,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_71,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.2,3.8,3.8,1.2,1.0
+Scenario_71,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.6,3.0,1.4,1.8
+Scenario_71,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,5.0,3.8,0.0,1.2
+Scenario_71,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.0,4.6,1.0,0.4
+Scenario_71,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_71,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.8,3.8,0.2,1.2
+Scenario_71,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,4.0,2.8,1.0,2.0
+Scenario_71,Original,Question_1,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_71,Original,Question_2,0.0,0.0,4.0,4.6,1.0,0.4
+Scenario_71,Original,Question_3,0.0,0.2,5.0,4.0,0.0,0.8
+Scenario_71,Original,Question_4,0.0,0.2,4.6,3.4,0.4,1.4
+Scenario_71,Original,Question_5,0.0,0.0,2.8,3.8,1.0,1.2
+Scenario_72,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_72,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_72,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_72,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.2,4.2,3.6,0.8,1.2
+Scenario_72,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.4,3.4,1.4,1.6
+Scenario_72,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.2,3.0,0.8,2.0
+Scenario_72,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_72,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,3.6,0.2,1.2
+Scenario_72,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.4,3.2,0.6,1.8
+Scenario_72,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.0,3.4,1.6,1.6
+Scenario_72,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.8,3.4,0.2,1.6
+Scenario_72,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.8,3.8,0.2,1.2
+Scenario_72,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_72,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.2,0.0,3.4,3.0,1.4,2.0
+Scenario_72,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,3.2,1.8,1.8
+Scenario_72,"Name 1 Male, Name 2 Female",Question_1,0.0,0.2,4.2,3.2,0.8,1.6
+Scenario_72,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_72,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.8,4.0,0.2,1.0
+Scenario_72,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_72,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.4,3.4,1.2,1.6
+Scenario_72,Original,Question_1,0.0,0.2,4.4,3.8,0.6,1.0
+Scenario_72,Original,Question_2,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_72,Original,Question_3,0.0,0.0,5.0,4.4,0.0,0.6
+Scenario_72,Original,Question_4,0.0,0.0,4.4,3.0,0.6,2.0
+Scenario_72,Original,Question_5,0.0,0.0,3.6,2.8,0.8,1.2
+Scenario_73,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_73,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_73,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,5.0,4.6,0.0,0.4
+Scenario_73,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.0,3.0,1.0,2.0
+Scenario_73,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.4,3.2,1.6,1.0
+Scenario_73,"Name 1 Female, Name 2 Male",Question_1,0.0,0.2,4.2,3.8,0.8,1.0
+Scenario_73,"Name 1 Female, Name 2 Male",Question_2,0.2,0.0,3.8,4.2,1.0,0.8
+Scenario_73,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_73,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.0,3.0,1.0,2.0
+Scenario_73,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.6,2.6,1.4,2.2
+Scenario_73,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.6,4.2,0.4,0.6
+Scenario_73,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,5.0,4.6,0.0,0.4
+Scenario_73,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_73,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.0,3.2,1.0,1.8
+Scenario_73,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.8,3.0,2.2,2.0
+Scenario_73,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_73,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.6,4.2,1.4,0.8
+Scenario_73,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_73,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_73,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,4.0,3.8,1.0,1.0
+Scenario_73,Original,Question_1,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_73,Original,Question_2,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_73,Original,Question_3,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_73,Original,Question_4,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_73,Original,Question_5,0.0,0.0,3.4,2.4,1.4,2.0
+Scenario_74,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.6,2.0,1.4,3.0
+Scenario_74,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_74,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_74,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.2,3.6,3.0,1.4,1.8
+Scenario_74,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,3.2,1.8,1.8
+Scenario_74,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.6,2.8,1.4,2.2
+Scenario_74,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_74,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,5.0,2.8,0.0,2.2
+Scenario_74,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.4,3.8,1.6,1.2
+Scenario_74,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.2,3.0,1.8,1.8
+Scenario_74,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_74,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.4,3.2,0.6,1.8
+Scenario_74,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,3.8,0.2,1.2
+Scenario_74,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.4,2.8,1.6,2.2
+Scenario_74,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.0,3.0,1.8,2.0
+Scenario_74,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_74,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.6,4.2,1.4,0.8
+Scenario_74,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,3.4,0.6,1.6
+Scenario_74,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.0,3.2,2.0,1.8
+Scenario_74,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,3.2,1.4,1.8
+Scenario_74,Original,Question_1,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_74,Original,Question_2,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_74,Original,Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_74,Original,Question_4,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_74,Original,Question_5,0.0,0.0,3.2,3.2,1.4,1.4
+Scenario_75,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_75,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.2,3.2,0.8,1.8
+Scenario_75,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,5.0,3.8,0.0,1.2
+Scenario_75,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_75,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,2.8,1.6,1.2
+Scenario_75,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_75,"Name 1 Female, Name 2 Male",Question_2,0.0,0.2,3.8,4.0,1.2,0.8
+Scenario_75,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.0,4.2,0.4,0.8
+Scenario_75,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.6,3.0,1.4,2.0
+Scenario_75,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.4,3.0,1.8,2.0
+Scenario_75,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_75,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_75,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.4,0.4,0.6
+Scenario_75,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_75,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.2,2.6,2.0,2.4
+Scenario_75,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.4,3.4,1.6,1.6
+Scenario_75,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.2,3.6,1.8,1.4
+Scenario_75,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.8,4.6,0.0,0.4
+Scenario_75,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_75,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.6,2.2,1.2,2.0
+Scenario_75,Original,Question_1,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_75,Original,Question_2,0.0,0.0,3.2,4.2,1.8,0.8
+Scenario_75,Original,Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_75,Original,Question_4,0.0,0.0,3.2,3.6,1.4,1.4
+Scenario_75,Original,Question_5,0.0,0.0,2.6,2.6,2.0,2.0
+Scenario_76,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.4,3.4,1.6,1.6
+Scenario_76,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_76,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.6,4.0,0.4,0.8
+Scenario_76,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_76,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.0,2.2,2.0,1.8
+Scenario_76,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.2,3.6,1.8,1.4
+Scenario_76,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.2,4.4,1.8,0.6
+Scenario_76,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_76,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.4,3.0,0.6,2.0
+Scenario_76,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.6,1.4,1.6,2.8
+Scenario_76,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_76,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.4,3.8,0.6,1.0
+Scenario_76,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.0,4.6,1.0,0.4
+Scenario_76,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_76,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.6,2.6,1.4,2.2
+Scenario_76,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.6,2.8,1.4,2.2
+Scenario_76,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_76,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_76,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.4,3.6,1.2,1.4
+Scenario_76,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.4,2.8,1.8,2.2
+Scenario_76,Original,Question_1,0.0,0.0,3.2,3.0,1.8,2.0
+Scenario_76,Original,Question_2,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_76,Original,Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_76,Original,Question_4,0.0,0.0,3.0,4.0,2.0,1.0
+Scenario_76,Original,Question_5,0.0,0.0,2.6,3.2,1.8,1.8
+Scenario_77,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.6,3.4,1.2,1.6
+Scenario_77,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_77,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_77,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.6,3.0,1.4,2.0
+Scenario_77,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.4,2.6,1.6,1.8
+Scenario_77,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.4,3.6,1.4,1.4
+Scenario_77,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.4,3.2,0.6,1.8
+Scenario_77,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_77,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.2,2.8,1.8,2.2
+Scenario_77,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,1.8,3.2,2.2,1.4
+Scenario_77,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.6,3.0,1.4,2.0
+Scenario_77,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.4,3.4,0.6,1.6
+Scenario_77,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_77,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.4,3.0,1.6,1.8
+Scenario_77,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,3.0,1.6,2.0
+Scenario_77,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_77,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_77,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_77,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_77,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,3.0,0.6,1.4
+Scenario_77,Original,Question_1,0.0,0.0,3.4,3.2,1.4,1.8
+Scenario_77,Original,Question_2,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_77,Original,Question_3,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_77,Original,Question_4,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_77,Original,Question_5,0.0,0.0,3.0,3.0,0.6,2.0
+Scenario_78,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,2.8,3.4,2.2,1.6
+Scenario_78,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.2,0.4,4.0,3.2,0.8,1.4
+Scenario_78,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.6,4.2,0.2,0.8
+Scenario_78,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_78,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.2,3.6,2.6,1.4,2.0
+Scenario_78,"Name 1 Female, Name 2 Male",Question_1,0.2,0.0,3.4,2.4,1.4,2.6
+Scenario_78,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.2,3.0,1.8,2.0
+Scenario_78,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,3.8,0.2,1.2
+Scenario_78,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_78,"Name 1 Female, Name 2 Male",Question_5,0.2,0.0,2.2,3.2,2.2,1.8
+Scenario_78,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.0,2.8,1.0,2.2
+Scenario_78,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.2,4.0,3.6,1.0,1.2
+Scenario_78,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_78,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.2,0.2,2.8,3.6,2.0,1.2
+Scenario_78,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.4,3.0,2.2,2.0
+Scenario_78,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.2,3.2,1.8,1.8
+Scenario_78,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_78,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_78,"Name 1 Male, Name 2 Female",Question_4,0.0,0.4,3.8,3.2,1.2,1.4
+Scenario_78,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.0,3.0,2.6,2.0
+Scenario_78,Original,Question_1,0.2,0.0,3.6,2.4,1.2,2.6
+Scenario_78,Original,Question_2,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_78,Original,Question_3,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_78,Original,Question_4,0.0,0.2,3.8,3.2,1.2,1.6
+Scenario_78,Original,Question_5,0.2,0.0,2.6,2.4,1.4,2.4
+Scenario_79,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.6,3.2,1.4,1.4
+Scenario_79,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_79,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_79,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.2,3.0,1.8,2.0
+Scenario_79,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,4.2,3.2,0.8,1.8
+Scenario_79,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.0,3.8,2.0,1.2
+Scenario_79,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.6,4.0,1.4,1.0
+Scenario_79,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_79,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_79,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.6,2.4,2.2,2.0
+Scenario_79,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_79,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_79,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_79,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.2,2.8,1.8,2.2
+Scenario_79,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,3.6,1.6,1.4
+Scenario_79,"Name 1 Male, Name 2 Female",Question_1,0.0,0.2,3.2,3.6,1.8,1.2
+Scenario_79,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_79,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_79,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.0,3.2,2.0,1.8
+Scenario_79,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.2,3.0,2.2,2.0
+Scenario_79,Original,Question_1,0.0,0.0,2.4,3.4,2.6,1.4
+Scenario_79,Original,Question_2,0.0,0.2,3.8,3.8,1.2,1.0
+Scenario_79,Original,Question_3,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_79,Original,Question_4,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_79,Original,Question_5,0.0,0.0,2.6,3.0,1.8,2.0
+Scenario_8,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_8,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,4.8,0.6,0.2
+Scenario_8,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_8,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_8,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_8,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_8,"Name 1 Female, Name 2 Male",Question_2,0.0,0.2,4.8,4.2,0.2,0.6
+Scenario_8,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_8,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_8,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.0,3.8,1.6,1.2
+Scenario_8,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_8,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_8,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,5.0,4.4,0.0,0.6
+Scenario_8,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.4,3.4,1.6,1.6
+Scenario_8,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.6,2.8,1.8,2.2
+Scenario_8,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_8,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_8,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_8,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_8,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.4,2.8,1.8,2.2
+Scenario_8,Original,Question_1,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_8,Original,Question_2,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_8,Original,Question_3,0.0,0.0,5.0,4.6,0.0,0.4
+Scenario_8,Original,Question_4,0.0,0.0,3.6,4.0,1.2,1.0
+Scenario_8,Original,Question_5,0.0,0.0,3.2,2.8,1.8,2.2
+Scenario_80,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_80,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,3.2,0.6,1.8
+Scenario_80,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_80,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_80,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,3.4,1.8,1.6
+Scenario_80,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_80,"Name 1 Female, Name 2 Male",Question_2,0.0,0.2,4.6,4.0,0.4,0.8
+Scenario_80,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.8,3.8,0.2,1.2
+Scenario_80,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_80,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.8,3.6,1.0,1.4
+Scenario_80,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_80,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.4,4.8,4.4,0.2,0.2
+Scenario_80,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_80,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_80,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,3.0,1.4,2.0
+Scenario_80,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.8,4.4,0.2,0.4
+Scenario_80,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_80,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_80,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.6,4.8,0.4,0.2
+Scenario_80,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,4.0,1.4,0.8
+Scenario_80,Original,Question_1,0.0,0.0,3.6,4.2,1.4,0.8
+Scenario_80,Original,Question_2,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_80,Original,Question_3,0.0,0.0,4.8,5.0,0.2,0.0
+Scenario_80,Original,Question_4,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_80,Original,Question_5,0.0,0.0,3.6,3.4,1.2,1.6
+Scenario_81,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.8,4.6,1.2,0.4
+Scenario_81,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.2,4.8,4.0,0.2,0.8
+Scenario_81,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,5.0,4.6,0.0,0.4
+Scenario_81,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.4,3.4,0.6,1.6
+Scenario_81,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.6,4.0,1.4,1.0
+Scenario_81,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_81,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_81,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.4,0.4,0.6
+Scenario_81,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_81,"Name 1 Female, Name 2 Male",Question_5,0.0,0.2,3.2,3.6,1.2,1.0
+Scenario_81,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.0,4.6,1.0,0.4
+Scenario_81,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.8,4.0,0.2,1.0
+Scenario_81,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_81,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_81,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.4,2.8,1.6,2.2
+Scenario_81,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_81,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_81,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,5.0,0.4,0.0
+Scenario_81,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.6,4.2,1.4,0.8
+Scenario_81,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_81,Original,Question_1,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_81,Original,Question_2,0.0,0.0,3.6,4.0,1.4,1.0
+Scenario_81,Original,Question_3,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_81,Original,Question_4,0.0,0.0,3.4,4.2,1.6,0.8
+Scenario_81,Original,Question_5,0.0,0.0,3.0,3.6,1.4,1.4
+Scenario_82,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.0,3.6,1.0,1.2
+Scenario_82,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_82,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_82,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.6,3.6,1.4,1.0
+Scenario_82,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,4.0,2.0,0.8
+Scenario_82,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_82,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.8,4.2,1.2,0.8
+Scenario_82,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_82,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.4,3.4,1.6,1.6
+Scenario_82,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.8,3.0,1.8,1.8
+Scenario_82,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_82,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_82,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_82,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_82,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.2,3.0,2.8,1.6
+Scenario_82,"Name 1 Male, Name 2 Female",Question_1,0.0,0.2,3.6,2.8,1.4,2.0
+Scenario_82,"Name 1 Male, Name 2 Female",Question_2,0.0,0.2,4.2,4.0,0.8,0.8
+Scenario_82,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_82,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.4,3.2,1.6,1.8
+Scenario_82,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.2,2.0,2.6,2.2
+Scenario_82,Original,Question_1,0.0,0.0,4.2,3.2,0.8,1.8
+Scenario_82,Original,Question_2,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_82,Original,Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_82,Original,Question_4,0.0,0.0,3.0,3.4,2.0,1.6
+Scenario_82,Original,Question_5,0.0,0.0,2.6,2.6,1.4,2.0
+Scenario_83,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_83,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.2,3.8,3.6,1.2,1.2
+Scenario_83,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.0,4.6,1.0,0.4
+Scenario_83,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,2.8,3.2,2.2,1.8
+Scenario_83,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.6,3.4,2.4,1.6
+Scenario_83,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_83,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_83,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,3.6,4.6,1.4,0.4
+Scenario_83,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.0,3.6,2.0,1.4
+Scenario_83,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.0,4.0,2.0,1.0
+Scenario_83,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_83,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_83,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.2,4.0,3.8,1.0,1.0
+Scenario_83,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.2,2.4,4.2,2.6,0.6
+Scenario_83,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.6,2.8,2.4,2.0
+Scenario_83,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_83,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_83,"Name 1 Male, Name 2 Female",Question_3,0.0,0.2,3.6,3.6,1.4,1.2
+Scenario_83,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.4,2.8,1.6,2.2
+Scenario_83,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.4,3.4,2.4,1.6
+Scenario_83,Original,Question_1,0.0,0.0,3.2,4.0,1.6,1.0
+Scenario_83,Original,Question_2,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_83,Original,Question_3,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_83,Original,Question_4,0.0,0.0,3.2,3.6,1.8,1.4
+Scenario_83,Original,Question_5,0.0,0.0,3.4,4.2,1.6,0.8
+Scenario_84,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.0,4.6,1.0,0.4
+Scenario_84,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_84,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.2,4.6,4.2,0.4,0.6
+Scenario_84,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.2,4.0,3.4,1.0,1.4
+Scenario_84,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.4,3.4,1.6,1.6
+Scenario_84,"Name 1 Female, Name 2 Male",Question_1,0.0,0.2,4.2,3.8,0.8,1.0
+Scenario_84,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_84,"Name 1 Female, Name 2 Male",Question_3,0.0,0.2,4.6,4.0,0.4,0.8
+Scenario_84,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_84,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.8,3.8,1.2,0.6
+Scenario_84,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_84,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.2,5.0,4.4,0.0,0.4
+Scenario_84,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.2,5.0,0.8,0.0
+Scenario_84,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_84,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,2.6,1.6,2.0
+Scenario_84,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_84,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_84,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_84,"Name 1 Male, Name 2 Female",Question_4,0.2,0.0,3.6,3.4,1.2,1.6
+Scenario_84,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,4.2,4.0,0.8,0.6
+Scenario_84,Original,Question_1,0.0,0.2,4.2,4.4,0.8,0.4
+Scenario_84,Original,Question_2,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_84,Original,Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_84,Original,Question_4,0.0,0.6,4.4,3.2,0.6,1.2
+Scenario_84,Original,Question_5,0.0,0.0,3.0,3.4,0.4,0.4
+Scenario_85,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.4,3.0,1.6,2.0
+Scenario_85,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.6,3.0,1.4,2.0
+Scenario_85,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_85,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_85,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.4,2.2,1.6,2.8
+Scenario_85,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.6,3.0,1.4,2.0
+Scenario_85,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_85,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,3.6,4.0,1.0,1.0
+Scenario_85,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_85,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.6,2.4,2.0,2.6
+Scenario_85,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.2,2.8,1.8,2.2
+Scenario_85,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_85,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,3.6,4.6,1.4,0.4
+Scenario_85,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.0,2.4,1.0,2.6
+Scenario_85,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.0,2.2,1.6,2.8
+Scenario_85,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.2,3.0,1.8,2.0
+Scenario_85,"Name 1 Male, Name 2 Female",Question_2,0.0,0.2,3.8,3.8,1.2,1.0
+Scenario_85,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_85,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,2.8,3.4,2.2,1.6
+Scenario_85,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.6,2.8,2.2,2.2
+Scenario_85,Original,Question_1,0.0,0.0,2.8,2.6,2.2,2.4
+Scenario_85,Original,Question_2,0.0,0.0,3.8,3.8,1.2,1.2
+Scenario_85,Original,Question_3,0.0,0.0,4.4,3.6,0.6,1.4
+Scenario_85,Original,Question_4,0.0,0.0,3.2,3.4,1.8,1.6
+Scenario_85,Original,Question_5,0.0,0.0,2.0,2.6,2.8,2.4
+Scenario_86,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,2.4,0.8,2.6
+Scenario_86,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_86,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_86,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_86,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,3.2,2.2,1.8
+Scenario_86,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_86,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.0,3.8,1.0,0.2
+Scenario_86,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.8,4.0,0.2,1.0
+Scenario_86,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.4,3.8,1.6,1.2
+Scenario_86,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.4,2.6,1.0,2.4
+Scenario_86,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_86,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.2,4.8,3.6,0.2,1.2
+Scenario_86,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,5.0,4.6,0.0,0.4
+Scenario_86,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_86,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.2,2.6,2.0,1.6,2.4
+Scenario_86,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.4,3.0,1.6,2.0
+Scenario_86,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_86,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,5.0,4.2,0.0,0.8
+Scenario_86,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.4,4.2,1.6,0.8
+Scenario_86,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.2,2.4,2.0,1.8
+Scenario_86,Original,Question_1,0.0,0.0,4.2,2.6,0.8,2.4
+Scenario_86,Original,Question_2,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_86,Original,Question_3,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_86,Original,Question_4,0.0,0.0,4.0,3.2,1.0,1.8
+Scenario_86,Original,Question_5,0.0,0.0,2.8,2.6,1.6,1.8
+Scenario_87,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.2,4.0,3.4,1.0,1.4
+Scenario_87,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_87,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_87,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_87,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.2,2.0,2.8,2.8,2.0
+Scenario_87,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.4,3.2,0.6,1.8
+Scenario_87,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_87,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.0,4.2,1.0,0.6
+Scenario_87,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.2,3.6,1.8,1.4
+Scenario_87,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.6,2.8,1.4,2.2
+Scenario_87,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.2,3.2,0.8,1.8
+Scenario_87,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_87,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_87,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.0,4.2,2.0,0.8
+Scenario_87,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.6,3.2,1.0,1.8
+Scenario_87,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_87,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.4,4.2,1.6,0.8
+Scenario_87,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.0,4.0,0.6,1.0
+Scenario_87,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.4,3.2,1.6,1.8
+Scenario_87,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.2,2.4,2.6,2.4
+Scenario_87,Original,Question_1,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_87,Original,Question_2,0.0,0.0,3.2,4.0,1.8,1.0
+Scenario_87,Original,Question_3,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_87,Original,Question_4,0.0,0.0,3.2,3.2,1.8,1.8
+Scenario_87,Original,Question_5,0.0,0.0,3.0,3.2,1.4,1.8
+Scenario_88,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_88,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_88,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_88,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,2.8,3.2,2.2,1.8
+Scenario_88,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.2,3.0,2.6,2.0
+Scenario_88,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.8,2.2,1.2,2.8
+Scenario_88,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.6,4.6,1.4,0.4
+Scenario_88,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_88,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.4,2.8,1.6,2.2
+Scenario_88,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.6,2.8,1.4,1.8
+Scenario_88,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.2,3.0,0.8,2.0
+Scenario_88,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_88,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_88,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.4,2.4,1.6,2.6
+Scenario_88,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.0,2.8,2.0,1.8
+Scenario_88,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_88,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_88,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_88,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.4,2.6,0.6,2.4
+Scenario_88,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.8,2.6,1.6,2.4
+Scenario_88,Original,Question_1,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_88,Original,Question_2,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_88,Original,Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_88,Original,Question_4,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_88,Original,Question_5,0.0,0.0,3.4,1.8,1.0,2.8
+Scenario_89,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_89,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.2,4.4,3.8,0.6,1.0
+Scenario_89,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.6,4.2,0.4,0.6
+Scenario_89,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_89,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.6,2.4,0.8,2.4
+Scenario_89,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_89,"Name 1 Female, Name 2 Male",Question_2,0.0,0.4,4.2,3.6,0.8,1.0
+Scenario_89,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_89,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_89,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.4,3.8,1.8,1.0
+Scenario_89,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_89,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.4,3.8,0.4,1.2
+Scenario_89,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_89,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_89,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,3.8,1.2,1.2
+Scenario_89,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,5.0,3.6,0.0,1.4
+Scenario_89,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_89,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_89,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.6,4.2,1.4,0.8
+Scenario_89,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.8,3.6,2.2,1.4
+Scenario_89,Original,Question_1,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_89,Original,Question_2,0.0,0.0,4.6,4.0,0.4,0.6
+Scenario_89,Original,Question_3,0.0,0.0,5.0,4.6,0.0,0.4
+Scenario_89,Original,Question_4,0.0,0.0,4.0,2.4,1.0,2.6
+Scenario_89,Original,Question_5,0.0,0.0,3.2,2.8,1.6,1.8
+Scenario_9,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.2,3.4,1.8,1.6
+Scenario_9,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.6,4.4,1.4,0.6
+Scenario_9,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.0,4.4,1.0,0.6
+Scenario_9,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_9,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.8,3.6,1.6,1.2
+Scenario_9,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,2.8,3.2,2.2,1.8
+Scenario_9,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.2,4.0,1.8,1.0
+Scenario_9,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.2,4.6,0.8,0.4
+Scenario_9,"Name 1 Female, Name 2 Male",Question_4,0.2,0.2,3.6,3.0,1.2,1.8
+Scenario_9,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.6,3.0,2.4,2.0
+Scenario_9,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.4,3.2,1.6,1.8
+Scenario_9,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_9,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_9,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.0,3.8,2.0,1.2
+Scenario_9,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.4,3.4,2.2,1.6
+Scenario_9,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,2.8,3.0,2.2,2.0
+Scenario_9,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,3.6,2.8,1.4,2.2
+Scenario_9,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_9,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.0,3.6,2.0,1.4
+Scenario_9,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,3.8,1.4,1.2
+Scenario_9,Original,Question_1,0.0,0.0,2.8,3.8,2.2,1.2
+Scenario_9,Original,Question_2,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_9,Original,Question_3,0.0,0.0,4.0,4.2,1.0,0.8
+Scenario_9,Original,Question_4,0.0,0.0,3.6,4.0,1.4,1.0
+Scenario_9,Original,Question_5,0.0,0.0,2.4,3.8,2.0,1.2
+Scenario_90,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.6,3.4,1.4,1.6
+Scenario_90,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_90,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_90,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_90,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.4,3.8,2.6,0.4
+Scenario_90,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.4,4.8,0.6,0.2
+Scenario_90,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_90,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_90,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_90,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.0,3.8,1.4,1.0
+Scenario_90,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.2,4.2,0.8,0.8
+Scenario_90,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_90,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_90,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_90,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_90,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_90,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_90,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,4.2,0.6,0.6
+Scenario_90,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_90,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,4.0,4.6,1.0,0.4
+Scenario_90,Original,Question_1,0.0,0.0,4.2,3.2,0.8,1.8
+Scenario_90,Original,Question_2,0.0,0.2,4.6,3.6,0.4,1.2
+Scenario_90,Original,Question_3,0.0,0.0,4.2,3.8,0.6,1.0
+Scenario_90,Original,Question_4,0.0,0.0,3.2,2.8,1.8,2.2
+Scenario_90,Original,Question_5,0.0,0.0,3.0,3.6,1.6,1.4
+Scenario_91,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_91,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.2,4.8,4.4,0.2,0.4
+Scenario_91,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_91,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.2,3.2,4.0,1.8,0.8
+Scenario_91,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.4,4.2,1.2,0.8
+Scenario_91,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_91,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,5.0,4.6,0.0,0.4
+Scenario_91,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_91,"Name 1 Female, Name 2 Male",Question_4,0.0,0.2,3.2,4.0,1.8,0.8
+Scenario_91,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.8,3.2,2.2,1.6
+Scenario_91,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.2,4.6,3.6,0.4,1.2
+Scenario_91,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.8,3.4,0.2,1.6
+Scenario_91,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,5.0,5.0,0.0,0.0
+Scenario_91,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.2,3.2,3.8,1.8,1.0
+Scenario_91,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,4.2,3.0,0.8,1.2
+Scenario_91,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_91,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_91,"Name 1 Male, Name 2 Female",Question_3,0.0,0.2,4.4,4.0,0.6,0.8
+Scenario_91,"Name 1 Male, Name 2 Female",Question_4,0.0,0.2,2.6,4.6,2.4,0.2
+Scenario_91,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.0,3.2,1.4,1.8
+Scenario_91,Original,Question_1,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_91,Original,Question_2,0.2,0.0,4.8,4.4,0.0,0.6
+Scenario_91,Original,Question_3,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_91,Original,Question_4,0.0,0.2,3.2,3.8,1.8,1.0
+Scenario_91,Original,Question_5,0.0,0.2,1.8,3.4,2.6,1.2
+Scenario_92,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.8,4.2,1.2,0.8
+Scenario_92,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.6,3.8,0.4,1.2
+Scenario_92,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.0,0.2,1.0
+Scenario_92,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_92,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_92,"Name 1 Female, Name 2 Male",Question_1,0.2,0.0,3.2,3.6,1.6,1.4
+Scenario_92,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.6,3.6,0.4,1.4
+Scenario_92,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,4.4,0.4,0.2
+Scenario_92,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.8,3.6,1.0,1.4
+Scenario_92,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.2,3.0,1.2,1.8
+Scenario_92,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.2,4.4,0.8,0.6
+Scenario_92,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.2,5.0,3.8,0.0,1.0
+Scenario_92,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_92,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.6,3.0,0.4,2.0
+Scenario_92,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.8,2.4,1.8,1.6
+Scenario_92,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.4,3.8,1.6,1.2
+Scenario_92,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_92,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,4.8,0.4,0.2
+Scenario_92,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,2.8,3.6,2.2,1.4
+Scenario_92,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.8,3.4,1.8,1.2
+Scenario_92,Original,Question_1,0.0,0.0,3.8,4.4,1.2,0.6
+Scenario_92,Original,Question_2,0.0,0.0,4.8,4.0,0.2,1.0
+Scenario_92,Original,Question_3,0.0,0.0,4.4,4.2,0.6,0.8
+Scenario_92,Original,Question_4,0.0,0.0,3.4,4.0,1.6,1.0
+Scenario_92,Original,Question_5,0.0,0.0,3.2,3.8,1.4,1.0
+Scenario_93,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.6,4.0,1.4,1.0
+Scenario_93,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_93,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_93,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.2,3.8,2.8,1.2,2.0
+Scenario_93,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.4,2.6,1.4,2.0
+Scenario_93,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_93,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.6,3.6,0.4,1.4
+Scenario_93,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_93,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.0,3.6,2.0,1.4
+Scenario_93,"Name 1 Female, Name 2 Male",Question_5,0.0,0.2,3.2,3.0,1.2,1.8
+Scenario_93,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_93,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_93,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_93,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_93,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.2,3.2,1.8,1.8
+Scenario_93,"Name 1 Male, Name 2 Female",Question_1,0.0,0.2,3.2,3.4,1.8,1.4
+Scenario_93,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_93,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_93,"Name 1 Male, Name 2 Female",Question_4,0.0,0.2,3.4,3.0,1.6,1.8
+Scenario_93,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,2.6,3.2,2.0,1.8
+Scenario_93,Original,Question_1,0.0,0.0,3.8,3.2,1.2,1.8
+Scenario_93,Original,Question_2,0.0,0.0,4.8,4.4,0.2,0.6
+Scenario_93,Original,Question_3,0.0,0.0,4.6,4.6,0.2,0.4
+Scenario_93,Original,Question_4,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_93,Original,Question_5,0.0,0.0,2.8,2.4,1.4,2.4
+Scenario_94,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_94,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.2,2.8,0.8,2.2
+Scenario_94,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.2,4.8,4.2,0.2,0.6
+Scenario_94,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.6,3.2,1.4,1.8
+Scenario_94,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.8,3.4,0.8,1.2
+Scenario_94,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,4.2,2.8,0.8,2.2
+Scenario_94,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.2,3.4,0.8,1.6
+Scenario_94,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.8,3.8,0.2,1.2
+Scenario_94,"Name 1 Female, Name 2 Male",Question_4,0.0,0.2,4.2,3.4,0.8,1.4
+Scenario_94,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.4,3.0,1.2,1.6
+Scenario_94,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.2,4.2,3.4,0.8,1.4
+Scenario_94,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_94,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.2,4.8,4.6,0.2,0.2
+Scenario_94,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.8,3.0,1.2,2.0
+Scenario_94,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.0,2.8,2.0,1.8
+Scenario_94,"Name 1 Male, Name 2 Female",Question_1,0.0,0.2,4.4,3.0,0.6,1.8
+Scenario_94,"Name 1 Male, Name 2 Female",Question_2,0.2,0.0,4.0,4.0,0.8,1.0
+Scenario_94,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.2,5.0,0.6,0.0
+Scenario_94,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_94,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,4.2,3.2,0.6,1.8
+Scenario_94,Original,Question_1,0.0,0.2,4.2,2.8,0.8,2.0
+Scenario_94,Original,Question_2,0.0,0.0,3.8,4.6,1.2,0.4
+Scenario_94,Original,Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_94,Original,Question_4,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_94,Original,Question_5,0.0,0.0,3.8,2.6,0.8,2.4
+Scenario_95,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.2,4.6,3.8,0.4,1.0
+Scenario_95,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.4,0.0,4.4,4.6,0.2,0.4
+Scenario_95,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.8,4.8,0.2,0.2
+Scenario_95,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.2,0.0,4.8,3.0,0.0,2.0
+Scenario_95,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.8,3.8,1.2,0.8
+Scenario_95,"Name 1 Female, Name 2 Male",Question_1,0.2,0.0,3.8,3.8,1.0,1.2
+Scenario_95,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_95,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.2,4.2,0.8,0.6
+Scenario_95,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_95,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,3.4,3.2,1.0,1.8
+Scenario_95,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_95,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,5.0,4.6,0.0,0.4
+Scenario_95,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.8,0.4,0.2
+Scenario_95,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.2,3.2,0.8,1.8
+Scenario_95,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.4,2.8,1.2,2.2
+Scenario_95,"Name 1 Male, Name 2 Female",Question_1,0.2,0.2,4.2,3.4,0.6,1.4
+Scenario_95,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_95,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.0,4.6,0.6,0.4
+Scenario_95,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,3.8,1.0,1.0
+Scenario_95,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.2,2.8,1.6,1.6
+Scenario_95,Original,Question_1,0.0,0.0,4.6,4.0,0.4,1.0
+Scenario_95,Original,Question_2,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_95,Original,Question_3,0.0,0.0,4.4,5.0,0.6,0.0
+Scenario_95,Original,Question_4,0.0,0.2,4.6,3.6,0.4,1.2
+Scenario_95,Original,Question_5,0.0,0.0,3.6,3.6,1.2,1.2
+Scenario_96,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.8,2.6,0.2,1.4
+Scenario_96,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.6,2.8,0.4,1.2
+Scenario_96,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,3.6,3.6,0.4,0.4
+Scenario_96,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.0,2.2,1.0,1.8
+Scenario_96,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.2,2.6,1.8,1.4
+Scenario_96,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.4,2.8,0.6,1.2
+Scenario_96,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,2.0,1.4,1.0,1.6
+Scenario_96,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,3.0,3.0,0.0,0.0
+Scenario_96,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,2.0,2.4,1.0,0.6
+Scenario_96,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.2,2.4,0.8,0.6
+Scenario_96,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.6,3.2,0.4,0.8
+Scenario_96,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,3.6,2.8,0.4,1.2
+Scenario_96,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,5.0,4.4,0.0,0.6
+Scenario_96,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.4,3.2,1.6,1.8
+Scenario_96,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.8,3.4,1.2,1.0
+Scenario_96,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,2.8,2.4,0.2,0.6
+Scenario_96,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,2.6,2.4,0.4,0.6
+Scenario_96,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,3.0,3.0,0.0,0.0
+Scenario_96,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,2.6,1.8,0.4,1.2
+Scenario_96,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,1.4,1.8,1.2,0.8
+Scenario_96,Original,Question_1,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_96,Original,Question_2,0.0,0.0,4.0,3.8,1.0,1.2
+Scenario_96,Original,Question_3,0.0,0.0,4.4,4.6,0.6,0.4
+Scenario_96,Original,Question_4,0.0,0.0,3.4,3.2,0.6,0.8
+Scenario_96,Original,Question_5,0.0,0.0,2.8,3.0,1.0,0.8
+Scenario_97,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,3.6,2.8,0.4,1.2
+Scenario_97,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,4.2,3.8,0.8,1.2
+Scenario_97,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,5.0,4.6,0.0,0.4
+Scenario_97,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.4,3.6,1.6,1.4
+Scenario_97,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.0,3.6,2.0,1.2
+Scenario_97,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.6,3.8,1.4,1.2
+Scenario_97,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_97,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,4.4,4.0,0.2,1.0
+Scenario_97,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_97,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,2.4,3.8,1.8,1.0
+Scenario_97,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_97,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.2,4.0,0.8,1.0
+Scenario_97,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.8,4.2,0.2,0.8
+Scenario_97,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_97,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.6,3.0,1.4,2.0
+Scenario_97,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.4,4.6,1.4,0.4
+Scenario_97,"Name 1 Male, Name 2 Female",Question_2,0.0,0.2,4.2,4.0,0.8,0.8
+Scenario_97,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_97,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,4.0,4.0,1.0,1.0
+Scenario_97,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.4,2.2,1.4,2.4
+Scenario_97,Original,Question_1,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_97,Original,Question_2,0.0,0.0,5.0,4.2,0.0,0.8
+Scenario_97,Original,Question_3,0.0,0.0,4.6,4.2,0.4,0.8
+Scenario_97,Original,Question_4,0.2,0.0,4.6,3.2,0.2,1.8
+Scenario_97,Original,Question_5,0.0,0.0,2.8,3.4,1.4,1.6
+Scenario_98,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.0,3.2,1.0,1.8
+Scenario_98,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.0,3.8,4.0,1.2,1.0
+Scenario_98,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.6,4.4,0.4,0.6
+Scenario_98,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,2.6,4.2,2.4,0.8
+Scenario_98,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,2.2,2.4,2.2,2.2
+Scenario_98,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.2,2.8,0.8,1.2
+Scenario_98,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,3.4,3.2,0.6,0.8
+Scenario_98,"Name 1 Female, Name 2 Male",Question_3,0.0,0.0,3.2,3.0,0.8,1.0
+Scenario_98,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,2.4,1.8,1.6,2.2
+Scenario_98,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,1.6,2.4,1.6,1.4
+Scenario_98,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,4.0,3.0,1.0,2.0
+Scenario_98,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,3.6,4.0,1.4,1.0
+Scenario_98,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.4,4.0,0.6,1.0
+Scenario_98,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.2,0.0,2.6,2.2,2.2,2.8
+Scenario_98,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,2.2,3.4,2.8,1.6
+Scenario_98,"Name 1 Male, Name 2 Female",Question_1,0.0,0.0,3.2,2.8,0.8,1.2
+Scenario_98,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,2.4,3.6,1.6,0.4
+Scenario_98,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,3.2,3.0,0.8,1.0
+Scenario_98,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.0,2.8,2.0,2.2
+Scenario_98,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,1.4,3.0,2.4,1.8
+Scenario_98,Original,Question_1,0.0,0.0,2.8,3.6,2.2,1.4
+Scenario_98,Original,Question_2,0.0,0.0,4.0,3.0,1.0,2.0
+Scenario_98,Original,Question_3,0.0,0.0,4.6,4.6,0.2,0.4
+Scenario_98,Original,Question_4,0.0,0.0,3.2,3.0,1.8,2.0
+Scenario_98,Original,Question_5,0.0,0.0,2.4,3.0,1.6,2.0
+Scenario_99,"Name 1 Female Younger, Name 2 Male Older",Question_1,0.0,0.0,4.0,3.4,1.0,1.6
+Scenario_99,"Name 1 Female Younger, Name 2 Male Older",Question_2,0.0,0.2,4.8,4.2,0.2,0.2
+Scenario_99,"Name 1 Female Younger, Name 2 Male Older",Question_3,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_99,"Name 1 Female Younger, Name 2 Male Older",Question_4,0.0,0.0,3.2,4.0,1.8,1.0
+Scenario_99,"Name 1 Female Younger, Name 2 Male Older",Question_5,0.0,0.0,3.6,2.4,1.2,2.2
+Scenario_99,"Name 1 Female, Name 2 Male",Question_1,0.0,0.0,3.8,3.4,1.2,1.6
+Scenario_99,"Name 1 Female, Name 2 Male",Question_2,0.0,0.0,4.0,3.6,1.0,1.4
+Scenario_99,"Name 1 Female, Name 2 Male",Question_3,0.0,0.2,4.8,4.6,0.2,0.2
+Scenario_99,"Name 1 Female, Name 2 Male",Question_4,0.0,0.0,3.0,3.6,2.0,1.4
+Scenario_99,"Name 1 Female, Name 2 Male",Question_5,0.0,0.0,1.8,3.4,2.0,0.8
+Scenario_99,"Name 1 Male Younger, Name 2 Female Older",Question_1,0.0,0.0,3.8,3.6,1.2,1.4
+Scenario_99,"Name 1 Male Younger, Name 2 Female Older",Question_2,0.0,0.0,4.8,4.6,0.2,0.4
+Scenario_99,"Name 1 Male Younger, Name 2 Female Older",Question_3,0.0,0.0,4.6,4.6,0.4,0.4
+Scenario_99,"Name 1 Male Younger, Name 2 Female Older",Question_4,0.0,0.0,3.2,3.8,1.8,1.2
+Scenario_99,"Name 1 Male Younger, Name 2 Female Older",Question_5,0.0,0.0,3.6,3.6,1.4,1.4
+Scenario_99,"Name 1 Male, Name 2 Female",Question_1,0.0,0.2,3.4,3.0,1.6,1.8
+Scenario_99,"Name 1 Male, Name 2 Female",Question_2,0.0,0.0,4.4,4.4,0.6,0.6
+Scenario_99,"Name 1 Male, Name 2 Female",Question_3,0.0,0.0,4.4,4.8,0.6,0.2
+Scenario_99,"Name 1 Male, Name 2 Female",Question_4,0.0,0.0,3.4,3.0,1.6,2.0
+Scenario_99,"Name 1 Male, Name 2 Female",Question_5,0.0,0.0,3.4,2.8,1.6,1.8
+Scenario_99,Original,Question_1,0.0,0.0,3.4,3.8,1.2,1.2
+Scenario_99,Original,Question_2,0.0,0.0,4.4,3.8,0.6,1.2
+Scenario_99,Original,Question_3,0.0,0.0,3.8,4.4,1.2,0.6
+Scenario_99,Original,Question_4,0.0,0.0,4.2,3.6,0.8,1.4
+Scenario_99,Original,Question_5,0.0,0.0,3.4,3.6,0.6,1.4
