@@ -1,0 +1,81 @@
+# -----------------------
+# Python
+# -----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Virtual envs
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Logs & caches
+*.log
+logs/
+.cache/
+.pytest_cache/
+.ipynb_checkpoints/
+.mypy_cache/
+coverage.xml
+htmlcov/
+.coverage*
+
+# -----------------------
+# Notebooks
+# -----------------------
+.ipynb_checkpoints/
+# If you export big notebooks' outputs elsewhere, ignore that folder:
+# notebooks_outputs/
+
+# -----------------------
+# IDE / Editor
+# -----------------------
+.vscode/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.iml
+
+# -----------------------
+# OS cruft
+# -----------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -----------------------
+# Figures / Reports (optional)
+# Uncomment if you export lots of big figures elsewhere
+# figures/
+# reports/
+# *.pdf
+
+# -----------------------
+# Security / Secrets
+# -----------------------
+# local keys, API tokens, etc.
+secret.py
+*.key
+*.pem
+
+# -----------------------
+# Model / Tooling (optional)
+# -----------------------
+# If you create an outputs/ dir for generated files, ignore it:
+# outputs/
+# outputs/**
+
+# -----------------------
+# Node / web (if any small UI assets)
+# -----------------------
+node_modules/
