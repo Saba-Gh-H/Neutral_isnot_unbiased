@@ -1,0 +1,209 @@
+{
+  "instrument": "CDA-34",
+  "version": "1.0",
+  "scale": {
+    "min": 1,
+    "max": 5,
+    "anchors": {
+      "1": "Not present",
+      "3": "Moderately present",
+      "5": "Strongly present"
+    }
+  },
+  "sections": [
+    {
+      "code": "A_Textual",
+      "title": "Textual Features",
+      "items": [
+        {
+          "id": "A1",
+          "name": "Lexical Choice",
+          "question": "Are word choices (adjectives/nouns/verbs) strategically framing people or actions?"
+        },
+        {
+          "id": "A2",
+          "name": "Metaphors/Imagery",
+          "question": "Are metaphors or imagery used to frame roles, traits, or events?"
+        },
+        {
+          "id": "A3",
+          "name": "Pronoun Use",
+          "question": "Do pronouns (we/they/you) include or distance specific actors?"
+        },
+        {
+          "id": "A4",
+          "name": "Voice (Active/Passive)",
+          "question": "Is responsibility clarified or obscured via active vs. passive constructions?"
+        },
+        {
+          "id": "A5",
+          "name": "Modality",
+          "question": "Does the text express obligation, certainty, or possibility to steer interpretation?"
+        },
+        {
+          "id": "A6",
+          "name": "Presuppositions",
+          "question": "Are assumptions embedded as given truths (unstated premises)?"
+        },
+        {
+          "id": "A7",
+          "name": "Nominalization",
+          "question": "Are actions turned into nouns in ways that hide agency (e.g., 'the decision was made')?"
+        },
+        {
+          "id": "A8",
+          "name": "Evaluation Terms",
+          "question": "Are value-laden evaluations (good/bad, competent/incompetent) applied unevenly?"
+        },
+        {
+          "id": "A9",
+          "name": "Repetition/Consistency",
+          "question": "Are descriptors or frames repeated to reinforce a particular view?"
+        }
+      ]
+    },
+    {
+      "code": "B_Discursive",
+      "title": "Discursive Practice",
+      "items": [
+        {
+          "id": "B1",
+          "name": "Framing of Roles",
+          "question": "Are roles (leader/support, expert/novice) discursively assigned?"
+        },
+        {
+          "id": "B2",
+          "name": "Intertextuality",
+          "question": "Are other texts/cultural references invoked to legitimize a stance?"
+        },
+        {
+          "id": "B3",
+          "name": "Audience Assumptions",
+          "question": "Does the text presume shared beliefs or stereotypes in the audience?"
+        },
+        {
+          "id": "B4",
+          "name": "Silences/Omissions",
+          "question": "Are relevant perspectives or facts omitted in a patterned way?"
+        },
+        {
+          "id": "B5",
+          "name": "Dialogicity",
+          "question": "Are multiple voices acknowledged, or is it a single authoritative voice?"
+        },
+        {
+          "id": "B6",
+          "name": "Legitimation",
+          "question": "Is authority justified via expertise, tradition, morality, or rationality?"
+        },
+        {
+          "id": "B7",
+          "name": "Role Normalization",
+          "question": "Are role divisions presented as natural or common sense?"
+        },
+        {
+          "id": "B8",
+          "name": "Casting Choices",
+          "question": "Are hypothetical portrayals (e.g., film casting) stereotypically assigned?"
+        }
+      ]
+    },
+    {
+      "code": "C_Social",
+      "title": "Social Practice",
+      "items": [
+        {
+          "id": "C1",
+          "name": "Power Relations",
+          "question": "Are unequal power relations represented, justified, or challenged?"
+        },
+        {
+          "id": "C2",
+          "name": "Ideological Work",
+          "question": "Does the text reinforce a particular worldview or ideology?"
+        },
+        {
+          "id": "C3",
+          "name": "Identity Construction",
+          "question": "How are social identities (gender/age/etc.) constructed or labeled?"
+        },
+        {
+          "id": "C4",
+          "name": "Agency Attribution",
+          "question": "Who is granted agency vs. portrayed as passive or acted upon?"
+        },
+        {
+          "id": "C5",
+          "name": "Inclusion/Exclusion",
+          "question": "Whose perspectives are foregrounded or marginalized?"
+        },
+        {
+          "id": "C6",
+          "name": "Us/Them Framing",
+          "question": "Is an in-group vs. out-group contrast constructed?"
+        },
+        {
+          "id": "C7",
+          "name": "Normalization of Stereotypes",
+          "question": "Are stereotypes treated as typical or expected?"
+        },
+        {
+          "id": "C8",
+          "name": "Resistance to Bias",
+          "question": "Does the text ever subvert or resist expected stereotypes?"
+        },
+        {
+          "id": "C9",
+          "name": "Intersectionality",
+          "question": "Do combined identities (e.g., gender+age) change portrayal or treatment?"
+        },
+        {
+          "id": "C10",
+          "name": "Social Consequences",
+          "question": "Could these representations shape attitudes, behavior, or policy if repeated widely?"
+        }
+      ]
+    },
+    {
+      "code": "D_Overall",
+      "title": "Overall Bias & Impact",
+      "items": [
+        {
+          "id": "D1",
+          "name": "Gender Bias Strength",
+          "question": "To what extent are traits/roles linked to gender?"
+        },
+        {
+          "id": "D2",
+          "name": "Age Bias Strength",
+          "question": "To what extent are traits/roles linked to age?"
+        },
+        {
+          "id": "D3",
+          "name": "Intersectional Bias",
+          "question": "Does bias intensify when gender and age cues combine?"
+        },
+        {
+          "id": "D4",
+          "name": "Stereotype Rigidity",
+          "question": "Are portrayals flexible or locked into fixed stereotypes?"
+        },
+        {
+          "id": "D5",
+          "name": "Bias Visibility",
+          "question": "Is bias overt/explicit or subtle/implicit?"
+        },
+        {
+          "id": "D6",
+          "name": "Surface Neutrality vs. Deep Bias",
+          "question": "Is there a neutral tone on the surface but biased framing underneath?"
+        },
+        {
+          "id": "D7",
+          "name": "Overall Bias Impact",
+          "question": "What is the overall degree to which the text reinforces or challenges bias?"
+        }
+      ]
+    }
+  ]
+}
