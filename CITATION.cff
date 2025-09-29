@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Neutral Is Not Unbiased: Evaluating Implicit and Intersectional Identity Bias in LLMs Through Structured Narrative Scenarios"
+version: "v1.0"
+date-released: "2025-09-29"
+authors:
+  - family-names: "Ghanbari Haez"
+    given-names: "Saba"
+    affiliation: "Fondazione Bruno Kessler (FBK); Free University of Bolzano (UniBZ)"
+  - family-names: "Dragoni"
+    given-names: "Mauro"
+    affiliation: "Fondazione Bruno Kessler (FBK)"
+identifiers:
+  - type: url
+    value: "https://github.com/Saba-Gh-H/Neutral_isnot_unbiased"
+repository-code: "https://github.com/Saba-Gh-H/Neutral_isnot_unbiased"
+preferred-citation:
+  type: inproceedings
+  title: "Neutral Is Not Unbiased: Evaluating Implicit and Intersectional Identity Bias in LLMs Through Structured Narrative Scenarios"
+  authors:
+    - family-names: "Ghanbari Haez"
+      given-names: "Saba"
+    - family-names: "Dragoni"
+      given-names: "Mauro"
+  year: 2025
+  collection-title: "The 2025 Conference on Empirical Methods in Natural Language Processing"
+  url: "https://openreview.net/forum?id=I4iEZPMI66"
