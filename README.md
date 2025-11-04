@@ -1,8 +1,8 @@
 # Neutral Is Not Unbiased: Evaluating Implicit and Intersectional Identity Bias in LLMs Through Structured Narrative Scenarios
 
 **Authors:** Saba Ghanbari Haez, Mauro Dragoni  
-📄 To appear at **Findings of EMNLP 2025**  
-🔗 [ACL-Anthology link]([https://openreview.net/forum?id=I4iEZPMI66](https://aclanthology.org/2025.findings-emnlp.814/#))
+📄 **Findings of EMNLP 2025**  
+🔗 [ACL-Anthology link](https://aclanthology.org/2025.findings-emnlp.814/#) 
 
 ---
 
