@@ -88,9 +88,9 @@ python cda_analysis.py --reviewer Reviewer1 --questions cda_questions.json
 
 ---
 
-## Citation (Preprint)
+## Citation (Proceedings)
 
-Please cite the preprint if you use this framework:
+Please cite the paper if you use this framework:
 
 ```bibtex
 @inproceedings{haez-dragoni-2025-neutral,
