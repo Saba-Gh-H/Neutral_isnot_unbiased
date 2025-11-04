@@ -115,5 +115,11 @@ Please cite the preprint if you use this framework:
 
 ---
 
+**Author Contacts:**
+1. Saba Ghanbari Haez: sghanbarihaez@fbk.eu  ghanbari.haez.saba@gmail.com
+2. Mauro Dragoni: dragoni@fbk.eu
+
+---
+
 ⚖️ **Ethics Note:**  
 All scenarios are fictional and constructed with neutral, harm-free language. Analyses are designed to **highlight and contextualize bias**, not reinforce it.
