@@ -1,21 +1,22 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite it as below."
-title: "Neutral Is Not Unbiased: Evaluating Implicit and Intersectional Identity Bias in LLMs Through Structured Narrative Scenarios"
+message: "If you use this repository, please cite the associated paper below."
+title: "Neutral Is Not Unbiased: Repository Implementation and Software"
 version: "v1.0"
 date-released: "2025-09-29"
+
 authors:
   - family-names: "Ghanbari Haez"
     given-names: "Saba"
     affiliation: "Fondazione Bruno Kessler (FBK); Free University of Bolzano (UniBZ)"
-  - family-names: "Dragoni"
-    given-names: "Mauro"
-    affiliation: "Fondazione Bruno Kessler (FBK)"
+
+repository-code: "https://github.com/Saba-Gh-H/Neutral_isnot_unbiased"
+
 identifiers:
   - type: url
     value: "https://github.com/Saba-Gh-H/Neutral_isnot_unbiased"
-repository-code: "https://github.com/Saba-Gh-H/Neutral_isnot_unbiased"
+
 preferred-citation:
-  type: inproceedings
+  type: conference-paper
   title: "Neutral Is Not Unbiased: Evaluating Implicit and Intersectional Identity Bias in LLMs Through Structured Narrative Scenarios"
   authors:
     - family-names: "Ghanbari Haez"
@@ -23,5 +24,7 @@ preferred-citation:
     - family-names: "Dragoni"
       given-names: "Mauro"
   year: 2025
-  collection-title: "The 2025 Conference on Empirical Methods in Natural Language Processing"
-  url: "https://openreview.net/forum?id=I4iEZPMI66"
+  collection-title: "Findings of the Association for Computational Linguistics: EMNLP 2025"
+  doi: "10.18653/v1/2025.findings-emnlp.814"
+  url: "https://aclanthology.org/2025.findings-emnlp.814/"
+
