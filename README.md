@@ -249,5 +249,6 @@ Please see the **LICENSE** file for the complete terms.
 # Contact
 
 **Saba Ghanbari Haez**
+email: sghanbarihaez [at] fbk.eu   ghanbari.haez.saba [at] gmail.com
 
 For questions concerning the repository implementation, software reuse, citation, or licensing, please contact the repository maintainer.
